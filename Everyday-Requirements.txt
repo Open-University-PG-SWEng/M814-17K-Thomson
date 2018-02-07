@@ -5,4 +5,14 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
+REQ-ID: 1
+Description: Everyday system shall accept a Price/Date range or location value 
+Type: 9 / Functional Requirement
+Rationale: User needs to enter a search value to begin property search
+Originator: DB
 
+REQ-ID: 2
+Description: Everyday system shall validate the search input value
+Type: 9 / Functional Requirement
+Rationale: Search term must be valid to prevent errors or incorrect results
+Originator: DB
