@@ -50,8 +50,8 @@ Comments: The agent must confirm that property details given by the property own
 (e.g. broken swimming pool, tv disconnected)
 
 REQ-ID: 8
-Description: The website should have a login facility to an administrative back end
+Description: The website should have a login facility
 Type: Functional requirement
-Rationale: The ability to edit property details should not be accessable to the general public 
+Rationale: The website must distinguish registered users and the general public
 Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
-Comments: The normal pattern for administrative backends is to have an administrator and authenticated users organized into security groups
+Comments: This requirement is also linked to a standard website security requirement converning user access privaleges
