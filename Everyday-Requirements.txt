@@ -54,4 +54,4 @@ Description: The website should have a login facility
 Type: Functional requirement
 Rationale: The website must distinguish registered users and the general public
 Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
-Comments: This requirement is also linked to a standard website security requirement converning user access privaleges
+Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
