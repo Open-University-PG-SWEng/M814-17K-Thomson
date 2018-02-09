@@ -40,3 +40,17 @@ Description: The website search results shall show an overview of each property 
 Type: 9 / Functional Requirement
 Rationale: The customer needs to be presented relevant information on each property in the search results to allow then to quickly judge its suitability.
 Originator: Guy Dixon
+
+REQ-ID: 7
+Description: The website should present agents with a user interface for entering property details
+Type: Functional requirement
+Rationale: The business needs the agent to document property details 
+Originator: David Nash
+Comments: The agent must authenticate property details given by the property owner, so this isn't left to the owner
+
+REQ-ID:
+Description: The website should have a login facility to an administrative back end
+Type: Functional requirement
+Rationale: The ability to edit property details should not be accessable to the general public 
+Originator: David Nash
+Comments: The normal pattern for administrative backends is to have an administrator and authenticated users organized into security groups
