@@ -16,3 +16,15 @@ Description: Everyday system shall validate the search input value
 Type: 9 / Functional Requirement
 Rationale: Search term must be valid to prevent errors or incorrect results
 Originator: DB
+
+REQ-ID: 3
+Description: The product shall accept special arrangements for the bookings
+Type: 9 / Functional Requirement
+Rationale: Holidaymakers can have speacial arrangement such as a cot
+Originator: Ayisha Jayakodi
+
+REQ-ID: 4
+Description: The product shall warn if the property is already booked on the desired dates to book
+Type: 9 / Functional Requirement
+Rationale: The product should assure that no more than one person can book the same property in certain dates
+Originator: Ayisha Jayakodi
