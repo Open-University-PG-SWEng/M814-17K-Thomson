@@ -55,3 +55,18 @@ Type: Functional requirement
 Rationale: The website must distinguish registered users and the general public
 Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
 Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
+
+REQ-ID: DKR9
+Description: The product shall accept one or more valid property search criteria (type, location, price, date range, etc)
+Type: Functional
+Rationale: The product must accept valid search criteria in order to perform the property search, while the number/type of search criteria to be entered should remain flexible to be most useful to the user
+Originator: Ayisha Jayakodi, Customer Service Agent
+Comments: [DKR] Flexible search criteria allows for both broader searches (e.g. location-only when researching a holiday) and narrower searches with exact criteria (e.g. when fixing an itinerary).
+
+REQ-ID: DKR10
+Description: The product shall allow the user to refine the search criteria
+Type: Functional
+Rationale: This is necessary to (hopefully) prevent the holidaymaker abandoning their search if the product finds no available properties matching the original criteria
+Originator: DKR, Business Analyst
+
+
