@@ -28,3 +28,15 @@ Description: The product shall warn if the property is already booked on the des
 Type: 9 / Functional Requirement
 Rationale: The product should assure that no more than one person can book the same property in certain dates
 Originator: Ayisha Jayakodi
+
+REQ-ID: GD1
+Description: Visitors to the website shall be able to search for properties by selecting from search criteria including: Number of bedrooms, location, price range and facilities.
+Type: 9 / Functional Requirement
+Rationale: The website user should be able to quickly specify their property criteria so that they can find relevant properties.
+Originator: Guy Dixon
+
+REQ-ID: GD2
+Description: The website search results shall show an overview of each property including: Photos, location information, facilities and price indicator
+Type: 9 / Functional Requirement
+Rationale: The customer needs to be presented relevant information on each property in the search results to allow then to quickly judge its suitability.
+Originator: Guy Dixon
