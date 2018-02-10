@@ -70,3 +70,19 @@ Rationale: This is necessary to (hopefully) prevent the holidaymaker abandoning 
 Originator: DKR, Business Analyst
 
 
+
+REQ-ID: 11
+Description: Product shall upload and store electronic photograph taken of the property
+Type:  Functional requirement
+Rationale:  Holidaymakers  Should be able to see an image of a rental property when visiting the website.
+Originator:  Aysha Jayakodi
+Comments: The first instance of the website will only be advertising the properties
+
+REQ-ID: 12
+Description:   Aysha Jayakodi should be able to fill in details of the property that will be displayed with the property image on the website along with a Reference ID.    
+Type:  Functional requirement.
+Rationale:  Prospective holidaymakers interested in a property should be able to identify and reference the property when contacting LandBNB. 
+Originator:  Aysha Jayakodi
+Comments:  LandBNB can be contacted by phone or email and a reference Id will make finding the property easy.
+
+
