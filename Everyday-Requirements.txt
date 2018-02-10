@@ -69,4 +69,17 @@ Type: Functional
 Rationale: This is necessary to (hopefully) prevent the holidaymaker abandoning their search if the product finds no available properties matching the original criteria
 Originator: DKR, Business Analyst
 
+RFQ-ID: DUB001
+Description: The product shall record property information.
+Type: Functional
+Rationale: Recording property information is necessary to make it easier for the holiday bookers to view and book their needed property.
+Originator: Ayisha Jayakodi, Secretary
+
+RFQ-ID: DUB002
+Description: The product shall allow user to cancel his/her booked property
+Type: Functional
+Rationale:The possibility of cancelling a booked property makes it easy for users to keep track of updates about the property.
+Originator: Ayisha Jayakodi
+
+
 
