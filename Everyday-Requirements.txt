@@ -70,7 +70,6 @@ Rationale: This is necessary to (hopefully) prevent the holidaymaker abandoning 
 Originator: DKR, Business Analyst
 
 
-
 REQ-ID: 11
 Description: Product shall upload and store electronic photograph taken of the property
 Type:  Functional requirement
