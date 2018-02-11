@@ -97,4 +97,14 @@ Rationale:  Prospective holidaymakers interested in a property should be able to
 Originator:  Aysha Jayakodi
 Comments:  LandBNB can be contacted by phone or email and a reference Id will make finding the property easy.
 
+REQ-ID: AW13
+Description: The product should store booking details against each property, with dates and details of the booking
+Type: 9 / Functional Requirement
+Rationale: When a booking is made it needs to be stored against a property so its availabilty is clear.
+Originator: Aysha Jayakodi
 
+REQ-ID: AW14
+Description: The product should have clear contact details, and allow easy enquiries.
+Type: 9 / Functional Requirement
+Rationale: It needs to be as straight forward as possible for someone viewing a property to be able to contact an Agent.
+Originator: Aysha Jayakodi
