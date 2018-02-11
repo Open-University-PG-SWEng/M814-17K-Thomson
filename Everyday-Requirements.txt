@@ -69,20 +69,6 @@ Type: Functional
 Rationale: This is necessary to (hopefully) prevent the holidaymaker abandoning their search if the product finds no available properties matching the original criteria
 Originator: DKR, Business Analyst
 
-RFQ-ID: DUB001
-Description: The product shall record property information.
-Type: Functional
-Rationale: Recording property information is necessary to make it easier for the holiday bookers to view and book their needed property.
-Originator: Ayisha Jayakodi, Secretary
-
-RFQ-ID: DUB002
-Description: The product shall allow user to cancel his/her booked property
-Type: Functional
-Rationale:The possibility of cancelling a booked property makes it easy for users to keep track of updates about the property.
-Originator: Ayisha Jayakodi
-
-
-
 REQ-ID: 11
 Description: Product shall upload and store electronic photograph taken of the property
 Type:  Functional requirement
@@ -108,3 +94,17 @@ Description: The product should have clear contact details, and allow easy enqui
 Type: 9 / Functional Requirement
 Rationale: It needs to be as straight forward as possible for someone viewing a property to be able to contact an Agent.
 Originator: Aysha Jayakodi
+
+RFQ-ID: DUB003
+Description: The product shall produce property booking confirmation.
+Type: Functional
+Rationale: Property booking confirmation will serve as a contract between the holidaymaker, Landbnb and property owner.
+Originator: Ayisha Jayakodi
+
+RFQ-ID: DUB004
+Description: The product shall update the status of a property
+Type: Functional
+Rationale: Updating the property status will make it easy to know whether the property is available or not.
+Originator: Ayisha Jayakodi
+
+
