@@ -118,3 +118,15 @@ Description: The product shall be able to store and retrieve bookings.
 Type: Functional requirement
 Rationale: The bookings should be conflict-free, the booked dates of a property must not overlap. Checking for overlaps should be done by the product (new, derived requirement), which cannot be done without being able to store and retrieve bookings.
 Originator: Ayisha Jayakodi (Landbnb agent)
+
+REQ-ID: BIB19
+Description: The website shall allow Landbnb customer service agents to input the property information gathered from property visits and discussions with property owners to the online advert. 
+Type: Functional Requirement
+Rationale: As the properties covered by Landbnb change over time the website adverts need to change to reflect this. 
+Originator: Landbnb customer service agent (Ayisha Jayakodi)
+
+REQ-ID: BIB20
+Description: The website shall validate the property details inputted by the customer service agent.
+Type: Functional Requirement
+Rationale: The website is intended to display, amongst other things, the available rental properties through Landbnb. Human input errors, such as two customer service agents inputting the same property twice therefore creating a duplicate, should be avoided. 
+Originator: Landbnb customer service agent (Ayisha Jayakodi)
