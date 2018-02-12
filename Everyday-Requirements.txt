@@ -107,4 +107,14 @@ Type: Functional
 Rationale: Updating the property status will make it easy to know whether the property is available or not.
 Originator: Ayisha Jayakodi
 
+REQ-ID: PS17
+Description: The product shall be able to process payments of holidaymakers.
+Type: Functional requirement
+Rationale: Processing payments manually is error-prone. It contains a business risk of revenue loss when not handled properly. To avoid this, an automatic payment processing system is suggested.
+Originator: Ayisha Jayakodi (Landbnb agent)
 
+REQ-ID: PS18
+Description: The product shall be able to store and retrieve bookings.
+Type: Functional requirement
+Rationale: The bookings should be conflict-free, the booked dates of a property must not overlap. Checking for overlaps should be done by the product (new, derived requirement), which cannot be done without being able to store and retrieve bookings.
+Originator: Ayisha Jayakodi (Landbnb agent)
