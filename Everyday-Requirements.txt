@@ -156,3 +156,16 @@ Description: The property diary will have records of all existing bookings
 Type: Functional
 Rationale: This data is required to ensure that the same property is not booked to more than one holiday maker at the same time.
 Originator: Ayisha Jayakodi
+
+REQ-ID: TH23
+Description: The product shall accept payment to book a property
+Type: Functional Requirement
+Rationale: The product should assure that property is reserved for the holidaymaker's preferred date.
+Originator: Ayisha Jayakodi
+
+REQ-ID: TH24
+Description: The product shall record payment for property bookings
+Type: Functional Requirement
+Rationale: The product should assure that payment is paid or isn't paid again.
+Originator: Ayisha Jayakodi
+
