@@ -41,6 +41,21 @@ Type: 9 / Functional Requirement
 Rationale: The customer needs to be presented relevant information on each property in the search results to allow then to quickly judge its suitability.
 Originator: Ayisha Jayakodi
 
+REQ-ID: 7
+Description: The website should present agents/secretary with a user interface for entering property details
+Type: Functional requirement
+Rationale: The business needs the agent to document property details 
+Originator: Ayisha Jayakodi
+Comments: The agent must confirm that property details given by the property owner are correct during a visit 
+(e.g. broken swimming pool, tv disconnected) and this should be added to the website by either the agents or the secretary
+
+REQ-ID: 8
+Description: The website should have a login facility
+Type: Functional requirement
+Rationale: The website must distinguish registered users and the general public
+Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
+Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
+
 REQ-ID: DKR9
 Description: The product shall accept one or more valid property search criteria (type, location, price, date range, etc)
 Type: Functional
