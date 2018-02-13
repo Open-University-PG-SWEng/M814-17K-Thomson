@@ -169,3 +169,17 @@ Type: Functional Requirement
 Rationale: The product should assure that payment is paid or isn't paid again.
 Originator: Ayisha Jayakodi
 
+REQ-ID: SD25
+Description: The product shall accept request from owners for an agent's visit at a future date when owner will not be available him/herself.
+Type: Functional Requirement
+Rationale: It is important for the agency and owners to make sure that the property is in good condition and safe to rent out.
+Originator: SD
+
+REQ-ID: SD26
+Description: The product shall accept payment for the property visit service
+Type: Functional Requirement
+Rationale: This is additional service, so a fee is necessary for the visiting agent's time.
+Originator: SD
+
+
+
