@@ -181,5 +181,17 @@ Type: Functional Requirement
 Rationale: This is additional service, so a fee is necessary for the visiting agent's time.
 Originator: SD
 
+REQ-ID: JS27
+Description: The product shall record rental rates with associated dates for each property
+Type: Functional Requirement
+Rationale: The holidaymaker requires property rental cost information to make rental decisions.
+Originator: SD
+
+REQ-ID: JS28
+Description: The product shall enable searches for properties based on type, cost, location and availability information
+Type: Functional Requirement
+Rationale: If users cannot easily identify properties based on their criteria they are unlikely to use the service  
+Originator: JS
+
 
 
