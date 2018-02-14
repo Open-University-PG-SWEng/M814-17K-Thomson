@@ -193,5 +193,17 @@ Type: Functional Requirement
 Rationale: If users cannot easily identify properties based on their criteria they are unlikely to use the service  
 Originator: JS
 
+REQ-ID: hotrod1
+Description: The product will store contact details and preferences of all prospective holidaymaker clients; if available
+Type:  Functional Requirement
+Rationale: For future marketing purposes
+Originator: hotrodm
+
+REQ-ID: hotrod2
+Description: The product will be able to retrieve details of properties from a database, based on search criteria such as property size; price; location; availability etc.
+Type:  Functional Requirement
+Rationale: To enable fast and efficient searching for prospective holidaymaker clients attempting to find appropriate property vacancies
+Originator: hotrodm
+
 
 
