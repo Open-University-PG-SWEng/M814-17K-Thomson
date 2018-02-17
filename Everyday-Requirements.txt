@@ -99,10 +99,11 @@ Comments: [DKR] AW13 & DUB004 are duplicates for recording property booking deta
 Comments: [DKR] DUB004 deleted as duplicate of AW13
 
 REQ-ID: AW14
-Description: The product should have clear contact details, and allow easy enquiries.
+Description: The product shall have clear contact details, and allow easy enquiries.
 Type: 9 / Functional Requirement
 Rationale: It needs to be as straight forward as possible for someone viewing a property to be able to contact an Agent.
 Originator: Aysha Jayakodi
+Comments [DKR] Minor amendments to correct format of description (AW14)
 
 REQ-ID: DUB003
 Description: The product shall produce property booking confirmation.
