@@ -1,10 +1,11 @@
 
 
 REQ-ID: 2
-Description: Everyday system shall validate the search input value
+Description: The product shall validate the search input value
 Type: 9 / Functional Requirement
 Rationale: Search term must be valid to prevent errors or incorrect results
 Originator: DB
+Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
 
 REQ-ID: 3
 Description: The product shall accept special arrangements for the bookings
@@ -18,12 +19,12 @@ Type: 9 / Functional Requirement
 Rationale: The product should assure that no more than one person can book the same property in certain dates
 Originator: Ayisha Jayakodi
 
-
 REQ-ID: GD2
-Description: The website search results shall show an overview of each property including: Photos, location information, facilities and price indicator
+Description: The product shall show an overview of each property including: Photos, location information, facilities and price indicator
 Type: 9 / Functional Requirement
 Rationale: The customer needs to be presented relevant information on each property in the search results to allow then to quickly judge its suitability.
 Originator: Ayisha Jayakodi
+Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
 
 REQ-ID: 7
 Description: The website should present agents/secretary with a user interface for entering property details
@@ -41,14 +42,14 @@ Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
 Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
 
 REQ-ID: DKR9
-Description: The product shall accept one or more valid property search criteria (type, location, price, date range, etc)
+Description: The product shall accept one or more valid property search criteria entered by the user
 Type: Functional
 Rationale: The product must accept valid search criteria in order to perform the property search, while the number/type of search criteria to be entered should remain flexible to be most useful to the user
 Originator: Ayisha Jayakodi, Customer Service Agent
 Comments: [DKR] Flexible search criteria allows for both broader searches (e.g. location-only when researching a holiday) and narrower searches with exact criteria (e.g. when fixing an itinerary).
 Comments: [DKR] REQ-ID 1, GD1, DKR9, JS28 and hotrod2 all show similar or duplicate search functionality
 Comments: [DKR] JS28 has been retained to reflect basic search functionality, but amended to replace 'availability' with 'date'
-Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria
+Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria, but amended to reflect data entry by a generic user
 Comments: [DKR] REQ-ID 1, GD1 and hotrod2 have been deleted as duplicates; hotrod2 may also be seen as a NFR based on the rationale provided
 
 REQ-ID: DKR10
@@ -70,11 +71,12 @@ Rationale:The possibility of cancelling a booked property makes it easy for user
 Originator: Ayisha Jayakodi
 
 REQ-ID: CS11 
-Description: Product shall upload and store electronic photograph taken of the property
+Description: The product shall upload and store electronic photograph taken of the property
 Type:  Functional requirement
 Rationale:  Holidaymakers  Should be able to see an image of a rental property when visiting the website.
 Originator:  Aysha Jayakodi
 Comments: The first instance of the website will only be advertising the properties
+Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
 
 REQ-ID: CS12
 Description:   Aysha Jayakodi should be able to fill in details of the property that will be displayed with the property image on the website along with a Reference ID.    
@@ -108,16 +110,18 @@ Rationale: Updating the property status will make it easy to know whether the pr
 Originator: Ayisha Jayakodi
 
 REQ-ID: PS17
-Description: The product shall be able to process payments of holidaymakers.
+Description: The product shall process payments of holidaymakers.
 Type: Functional requirement
 Rationale: Processing payments manually is error-prone. It contains a business risk of revenue loss when not handled properly. To avoid this, an automatic payment processing system is suggested.
 Originator: Ayisha Jayakodi (Landbnb agent)
+Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
 
 REQ-ID: PS18
-Description: The product shall be able to store and retrieve bookings.
+Description: The product shall store and retrieve bookings.
 Type: Functional requirement
 Rationale: The bookings should be conflict-free, the booked dates of a property must not overlap. Checking for overlaps should be done by the product (new, derived requirement), which cannot be done without being able to store and retrieve bookings.
 Originator: Ayisha Jayakodi (Landbnb agent)
+Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
 
 REQ-ID: BIB19
 Description: The website shall allow Landbnb customer service agents to input the property information gathered from property visits and discussions with property owners to the online advert. 
@@ -184,8 +188,8 @@ Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria
 Comments: [DKR] REQ-ID 1, GD1 and hotrod2 have been deleted as duplicates; hotrod2 may also be seen as a NFR based on the rationale provided
 
 REQ-ID: hotrod1
-Description: The product will store contact details and preferences of all prospective holidaymaker clients; if available
+Description: The product shall store contact details and preferences of all prospective holidaymaker clients; if available
 Type:  Functional Requirement
 Rationale: For future marketing purposes
 Originator: hotrodm
-
+Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
