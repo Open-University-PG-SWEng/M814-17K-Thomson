@@ -79,13 +79,15 @@ Originator:  Aysha Jayakodi
 Comments: The first instance of the website will only be advertising the properties
 Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
 
-REQ-ID: CS12
-Description:   Aysha Jayakodi should be able to fill in details of the property that will be displayed with the property image on the website along with a Reference ID.    
+REQ-ID: CS12(amended)
+Description: The product shall accept property details entered by the user for a unique property Reference ID.
 Type:  Functional requirement.
 Rationale:  Prospective holidaymakers interested in a property should be able to identify and reference the property when contacting LandBNB. 
 Originator:  Aysha Jayakodi
 Comments:  LandBNB can be contacted by phone or email and a reference Id will make finding the property easy.
-Comments: [DKR] CS12, BIB19 & duplicate the functionality of entering property details; delete BIB19 as redundant
+Comments: [DKR] CS12 & BIB19 duplicate the functionality of entering property details
+Comments: [DKR] CS12 amended to refine wording & correct format of description
+Comments: [DKR] Deleted BIB19 as redundant, duplicate of CS12(amended)
 
 REQ-ID: AW13
 Description: The product should store booking details against each property, with dates and details of the booking
@@ -124,12 +126,6 @@ Type: Functional requirement
 Rationale: The bookings should be conflict-free, the booked dates of a property must not overlap. Checking for overlaps should be done by the product (new, derived requirement), which cannot be done without being able to store and retrieve bookings.
 Originator: Ayisha Jayakodi (Landbnb agent)
 Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
-
-REQ-ID: BIB19
-Description: The website shall allow Landbnb customer service agents to input the property information gathered from property visits and discussions with property owners to the online advert. 
-Type: Functional Requirement
-Rationale: As the properties covered by Landbnb change over time the website adverts need to change to reflect this. 
-Originator: Landbnb customer service agent (Ayisha Jayakodi)
 
 REQ-ID: BIB20
 Description: The website shall validate the property details inputted by the customer service agent.
