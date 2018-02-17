@@ -1,9 +1,4 @@
 
-REQ-ID: 1
-Description: Everyday system shall accept a Price/Date range or location value 
-Type: 9 / Functional Requirement
-Rationale: User needs to enter a search value to begin property search
-Originator: DB
 
 REQ-ID: 2
 Description: Everyday system shall validate the search input value
@@ -23,11 +18,6 @@ Type: 9 / Functional Requirement
 Rationale: The product should assure that no more than one person can book the same property in certain dates
 Originator: Ayisha Jayakodi
 
-REQ-ID: GD1
-Description: Visitors to the website shall be able to search for properties by selecting from search criteria including: Number of bedrooms, location, price range and facilities.
-Type: 9 / Functional Requirement
-Rationale: The website user should be able to quickly specify their property criteria so that they can find relevant properties.
-Originator: Ayisha Jayakodi
 
 REQ-ID: GD2
 Description: The website search results shall show an overview of each property including: Photos, location information, facilities and price indicator
@@ -56,6 +46,10 @@ Type: Functional
 Rationale: The product must accept valid search criteria in order to perform the property search, while the number/type of search criteria to be entered should remain flexible to be most useful to the user
 Originator: Ayisha Jayakodi, Customer Service Agent
 Comments: [DKR] Flexible search criteria allows for both broader searches (e.g. location-only when researching a holiday) and narrower searches with exact criteria (e.g. when fixing an itinerary).
+Comments: [DKR] REQ-ID 1, GD1, DKR9, JS28 and hotrod2 all show similar or duplicate search functionality
+Comments: [DKR] JS28 has been retained to reflect basic search functionality, but amended to replace 'availability' with 'date'
+Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria
+Comments: [DKR] REQ-ID 1, GD1 and hotrod2 have been deleted as duplicates; hotrod2 may also be seen as a NFR based on the rationale provided
 
 REQ-ID: DKR10
 Description: The product shall allow the user to refine the search criteria
@@ -180,10 +174,14 @@ Rationale: The holidaymaker requires property rental cost information to make re
 Originator: SD
 
 REQ-ID: JS28
-Description: The product shall enable searches for properties based on type, cost, location and availability information
+Description: The product shall enable searches for properties based on type, cost, location and date information
 Type: Functional Requirement
 Rationale: If users cannot easily identify properties based on their criteria they are unlikely to use the service  
 Originator: JS
+Comments: [DKR] REQ-ID 1, GD1, DKR9, JS28 and hotrod2 all show similar or duplicate search functionality
+Comments: [DKR] JS28 has been retained to reflect basic search functionality, but amended to replace 'availability' with 'date'
+Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria
+Comments: [DKR] REQ-ID 1, GD1 and hotrod2 have been deleted as duplicates; hotrod2 may also be seen as a NFR based on the rationale provided
 
 REQ-ID: hotrod1
 Description: The product will store contact details and preferences of all prospective holidaymaker clients; if available
@@ -191,8 +189,3 @@ Type:  Functional Requirement
 Rationale: For future marketing purposes
 Originator: hotrodm
 
-REQ-ID: hotrod2
-Description: The product will be able to retrieve details of properties from a database, based on search criteria such as property size; price; location; availability etc.
-Type:  Functional Requirement
-Rationale: To enable fast and efficient searching for prospective holidaymaker clients attempting to find appropriate property vacancies
-Originator: hotrodm
