@@ -1,38 +1,13 @@
-REQ-ID:
-Description:
-Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-
-REQ-ID: 1
-Description: Everyday system shall accept a Price/Date range or location value 
-Type: 9 / Functional Requirement
-Rationale: User needs to enter a search value to begin property search
-Originator: DB
-
 REQ-ID: 2
 Description: Everyday system shall validate the search input value
 Type: 9 / Functional Requirement
 Rationale: Search term must be valid to prevent errors or incorrect results
 Originator: DB
 
-REQ-ID: 3
-Description: The product shall accept special arrangements for the bookings
-Type: 9 / Functional Requirement
-Rationale: Holidaymakers can have speacial arrangement such as a cot
-Originator: Ayisha Jayakodi
-
-REQ-ID: 4
-Description: The product shall warn if the property is already booked on the desired dates to book
-Type: 9 / Functional Requirement
-Rationale: The product should assure that no more than one person can book the same property in certain dates
-Originator: Ayisha Jayakodi
-
-REQ-ID: GD1
-Description: Visitors to the website shall be able to search for properties by selecting from search criteria including: Number of bedrooms, location, price range and facilities.
-Type: 9 / Functional Requirement
-Rationale: The website user should be able to quickly specify their property criteria so that they can find relevant properties.
+RFQ-ID: DUB002
+Description: The product shall allow user to cancel his/her booked property
+Type: Functional
+Rationale:The possibility of cancelling a booked property makes it easy for users to keep track of updates about the property.
 Originator: Ayisha Jayakodi
 
 REQ-ID: GD2
@@ -41,46 +16,23 @@ Type: 9 / Functional Requirement
 Rationale: The customer needs to be presented relevant information on each property in the search results to allow then to quickly judge its suitability.
 Originator: Ayisha Jayakodi
 
-REQ-ID: 7
-Description: The website should present agents/secretary with a user interface for entering property details
-Type: Functional requirement
-Rationale: The business needs the agent to document property details 
+REQ-ID: 3
+Description: The product shall accept special arrangements for the bookings
+Type: 9 / Functional Requirement
+Rationale: Holidaymakers can have speacial arrangement such as a cot
 Originator: Ayisha Jayakodi
-Comments: The agent must confirm that property details given by the property owner are correct during a visit 
-(e.g. broken swimming pool, tv disconnected) and this should be added to the website by either the agents or the secretary
 
-REQ-ID: 8
-Description: The website should have a login facility
-Type: Functional requirement
-Rationale: The website must distinguish registered users and the general public
-Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
-Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
-
-REQ-ID: DKR9
-Description: The product shall accept one or more valid property search criteria (type, location, price, date range, etc)
+RFQ-ID: DUB003
+Description: The product shall produce property booking confirmation.
 Type: Functional
-Rationale: The product must accept valid search criteria in order to perform the property search, while the number/type of search criteria to be entered should remain flexible to be most useful to the user
-Originator: Ayisha Jayakodi, Customer Service Agent
-Comments: [DKR] Flexible search criteria allows for both broader searches (e.g. location-only when researching a holiday) and narrower searches with exact criteria (e.g. when fixing an itinerary).
+Rationale: Property booking confirmation will serve as a contract between the holidaymaker, Landbnb and property owner.
+Originator: Ayisha Jayakodi
 
 REQ-ID: DKR10
 Description: The product shall allow the user to refine the search criteria
 Type: Functional
 Rationale: This is necessary to (hopefully) prevent the holidaymaker abandoning their search if the product finds no available properties matching the original criteria
 Originator: DKR, Business Analyst
-
- 
-RFQ-ID: DUB001
-Description: The product shall record property information.
-Type: Functional
-Rationale: Recording property information is necessary to make it easier for the holiday bookers to view and book their needed property.
-Originator: Ayisha Jayakodi, Secretary
-
-RFQ-ID: DUB002
-Description: The product shall allow user to cancel his/her booked property
-Type: Functional
-Rationale:The possibility of cancelling a booked property makes it easy for users to keep track of updates about the property.
-Originator: Ayisha Jayakodi
 
 REQ-ID: CS11 
 Description: Product shall upload and store electronic photograph taken of the property
@@ -89,48 +41,22 @@ Rationale:  Holidaymakers  Should be able to see an image of a rental property w
 Originator:  Aysha Jayakodi
 Comments: The first instance of the website will only be advertising the properties
 
-REQ-ID: CS12
-Description:   Aysha Jayakodi should be able to fill in details of the property that will be displayed with the property image on the website along with a Reference ID.    
-Type:  Functional requirement.
-Rationale:  Prospective holidaymakers interested in a property should be able to identify and reference the property when contacting LandBNB. 
-Originator:  Aysha Jayakodi
-Comments:  LandBNB can be contacted by phone or email and a reference Id will make finding the property easy.
-
 REQ-ID: AW13
 Description: The product should store booking details against each property, with dates and details of the booking
 Type: 9 / Functional Requirement
 Rationale: When a booking is made it needs to be stored against a property so its availabilty is clear.
 Originator: Aysha Jayakodi
 
- 
 REQ-ID: AW14
 Description: The product should have clear contact details, and allow easy enquiries.
 Type: 9 / Functional Requirement
 Rationale: It needs to be as straight forward as possible for someone viewing a property to be able to contact an Agent.
 Originator: Aysha Jayakodi
 
-RFQ-ID: DUB003
-Description: The product shall produce property booking confirmation.
-Type: Functional
-Rationale: Property booking confirmation will serve as a contract between the holidaymaker, Landbnb and property owner.
-Originator: Ayisha Jayakodi
-
-RFQ-ID: DUB004
-Description: The product shall update the status of a property
-Type: Functional
-Rationale: Updating the property status will make it easy to know whether the property is available or not.
-Originator: Ayisha Jayakodi
-
 REQ-ID: PS17
 Description: The product shall be able to process payments of holidaymakers.
 Type: Functional requirement
-Rationale: Processing payments manually is error-prone. It contains a business risk of revenue loss when not handled properly. To avoid this, an automatic payment processing system is suggested.
-Originator: Ayisha Jayakodi (Landbnb agent)
-
-REQ-ID: PS18
-Description: The product shall be able to store and retrieve bookings.
-Type: Functional requirement
-Rationale: The bookings should be conflict-free, the booked dates of a property must not overlap. Checking for overlaps should be done by the product (new, derived requirement), which cannot be done without being able to store and retrieve bookings.
+Rationale: Processing payments manually is error-prone. It contains a business risk of revenue loss when not handled properly.
 Originator: Ayisha Jayakodi (Landbnb agent)
 
 REQ-ID: BIB19
@@ -145,42 +71,6 @@ Type: Functional Requirement
 Rationale: The website is intended to display, amongst other things, the available rental properties through Landbnb. Human input errors, such as two customer service agents inputting the same property twice therefore creating a duplicate, should be avoided. 
 Originator: Landbnb customer service agent (Ayisha Jayakodi)
 
-REQ-ID: JC21
-Description: The product will have a diary for each property.
-Type: Functional
-Rationale: Each property needs its own record of bookings. It should be possible to book a property, regardless of what bookings are made at other properties.
-Originator: Ayisha Jayakodi
- 
-REQ-ID: JC22
-Description: The property diary will have records of all existing bookings
-Type: Functional
-Rationale: This data is required to ensure that the same property is not booked to more than one holiday maker at the same time.
-Originator: Ayisha Jayakodi
-
-REQ-ID: TH23
-Description: The product shall accept payment to book a property
-Type: Functional Requirement
-Rationale: The product should assure that property is reserved for the holidaymaker's preferred date.
-Originator: Ayisha Jayakodi
-
-REQ-ID: TH24
-Description: The product shall record payment for property bookings
-Type: Functional Requirement
-Rationale: The product should assure that payment is paid or isn't paid again.
-Originator: Ayisha Jayakodi
-
-REQ-ID: SD25
-Description: The product shall accept request from owners for an agent's visit at a future date when owner will not be available him/herself.
-Type: Functional Requirement
-Rationale: It is important for the agency and owners to make sure that the property is in good condition and safe to rent out.
-Originator: SD
-
-REQ-ID: SD26
-Description: The product shall accept payment for the property visit service
-Type: Functional Requirement
-Rationale: This is additional service, so a fee is necessary for the visiting agent's time.
-Originator: SD
-
 REQ-ID: JS27
 Description: The product shall record rental rates with associated dates for each property
 Type: Functional Requirement
@@ -192,18 +82,4 @@ Description: The product shall enable searches for properties based on type, cos
 Type: Functional Requirement
 Rationale: If users cannot easily identify properties based on their criteria they are unlikely to use the service  
 Originator: JS
-
-REQ-ID: hotrod1
-Description: The product will store contact details and preferences of all prospective holidaymaker clients; if available
-Type:  Functional Requirement
-Rationale: For future marketing purposes
-Originator: hotrodm
-
-REQ-ID: hotrod2
-Description: The product will be able to retrieve details of properties from a database, based on search criteria such as property size; price; location; availability etc.
-Type:  Functional Requirement
-Rationale: To enable fast and efficient searching for prospective holidaymaker clients attempting to find appropriate property vacancies
-Originator: hotrodm
-
-
 
