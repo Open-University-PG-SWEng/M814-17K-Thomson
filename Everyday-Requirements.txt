@@ -104,12 +104,6 @@ Type: Functional requirement
 Rationale: Processing payments manually is error-prone. It contains a business risk of revenue loss when not handled properly. To avoid this, an automatic payment processing system is suggested.
 Originator: Ayisha Jayakodi (Landbnb agent)
 
-REQ-ID: BIB20
-Description: The website shall validate the property details inputted by the customer service agent.
-Type: Functional Requirement
-Rationale: The website is intended to display, amongst other things, the available rental properties through Landbnb. Human input errors, such as two customer service agents inputting the same property twice therefore creating a duplicate, should be avoided. 
-Originator: Landbnb customer service agent (Ayisha Jayakodi)
-
 REQ-ID: TH24
 Description: The product shall record payment for property bookings
 Type: Functional Requirement
