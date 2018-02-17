@@ -134,19 +134,6 @@ Type: Functional Requirement
 Rationale: The website is intended to display, amongst other things, the available rental properties through Landbnb. Human input errors, such as two customer service agents inputting the same property twice therefore creating a duplicate, should be avoided. 
 Originator: Landbnb customer service agent (Ayisha Jayakodi)
 
-REQ-ID: JC21
-Description: The product will have a diary for each property.
-Type: Functional
-Rationale: Each property needs its own record of bookings. It should be possible to book a property, regardless of what bookings are made at other properties.
-Originator: Ayisha Jayakodi
-
-REQ-ID: JC22
-Description: The property diary will have records of all existing bookings
-Type: Functional
-Rationale: This data is required to ensure that the same property is not booked to more than one holiday maker at the same time.
-Originator: Ayisha Jayakodi
-Comments: [DKR] JC21 & JC22 reference 'property diary' which can be seen as technological bias; this terminology should be removed
-
 REQ-ID: TH23
 Description: The product shall accept payment to book a property
 Type: Functional Requirement
