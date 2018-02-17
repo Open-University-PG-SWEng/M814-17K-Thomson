@@ -91,7 +91,7 @@ Comments: [DKR] CS12 amended to refine wording & correct format of description
 Comments: [DKR] Deleted BIB19 as redundant, duplicate of CS12(amended)
 
 REQ-ID: AW13
-Description: The product should store booking details against each property, with dates and details of the booking
+Description: The product shall store booking details against each property, with dates and details of the booking
 Type: 9 / Functional Requirement
 Rationale: When a booking is made it needs to be stored against a property so its availability is clear.
 Originator: Aysha Jayakodi
@@ -100,6 +100,7 @@ Comments: [DKR] DUB004 deleted as duplicate of AW13
 Comments: [DKR] AW13, JC21 & JC22 all deal with maintaining property booking records
 Comments: [DKR] Also, JC21 & JC22 reference 'property diary' which can be seen as technological bias; such terminology should be removed
 Comments: [DKR] JC21 & JC22 are deleted as duplicates of AW13
+Comments: [DKR] Minor amendments to correct format of description (AW13, BIB20)
 
 REQ-ID: AW14
 Description: The product shall have clear contact details, and allow easy enquiries.
@@ -129,10 +130,11 @@ Originator: Ayisha Jayakodi (Landbnb agent)
 Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
 
 REQ-ID: BIB20
-Description: The website shall validate the property details inputted by the customer service agent.
+Description: The product shall validate the property details inputted by the customer service agent.
 Type: Functional Requirement
 Rationale: The website is intended to display, amongst other things, the available rental properties through Landbnb. Human input errors, such as two customer service agents inputting the same property twice therefore creating a duplicate, should be avoided. 
 Originator: Landbnb customer service agent (Ayisha Jayakodi)
+Comments: [DKR] Minor amendments to correct format of description (AW13, BIB20)
 
 REQ-ID: TH23
 Description: The product shall accept payment to book a property
