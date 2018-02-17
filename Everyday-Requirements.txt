@@ -43,7 +43,7 @@ Comments: This requirement is also linked to a standard website security require
 Comments [DKR] Minor amendments to correct format of description (REQ-ID 8)
 
 REQ-ID: DKR9
-Description: The product shall accept one or more valid property search criteria entered by the user
+Description: The product shall accept one or more property search criteria entered by the user
 Type: Functional
 Rationale: The product must accept valid search criteria in order to perform the property search, while the number/type of search criteria to be entered should remain flexible to be most useful to the user
 Originator: Ayisha Jayakodi, Customer Service Agent
@@ -52,6 +52,7 @@ Comments: [DKR] REQ-ID 1, GD1, DKR9, JS28 and hotrod2 all show similar or duplic
 Comments: [DKR] JS28 has been retained to reflect basic search functionality, but amended to replace 'availability' with 'date'
 Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria, but amended to reflect data entry by a generic user
 Comments: [DKR] REQ-ID 1, GD1 and hotrod2 have been deleted as duplicates; hotrod2 may also be seen as a NFR based on the rationale provided
+Comments: [DKR] Minor amend to DKR9 (remove 'valid' as duplicates with REQ-ID 2)
 
 REQ-ID: DKR10
 Description: The product shall allow the user to refine the search criteria
