@@ -1,5 +1,4 @@
 
-
 REQ-ID: 2
 Description: The product shall validate the search input value
 Type: 9 / Functional Requirement
@@ -36,11 +35,12 @@ Comments: The agent must confirm that property details given by the property own
 Comments [DKR] Minor amendments to correct format of description (REQ-ID 7)
 
 REQ-ID: 8
-Description: The website should have a login facility
+Description: The product shall have a login facility
 Type: Functional requirement
 Rationale: The website must distinguish registered users and the general public
 Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
 Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
+Comments [DKR] Minor amendments to correct format of description (REQ-ID 8)
 
 REQ-ID: DKR9
 Description: The product shall accept one or more valid property search criteria entered by the user
