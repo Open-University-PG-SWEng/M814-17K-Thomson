@@ -93,10 +93,13 @@ Comments: [DKR] Deleted BIB19 as redundant, duplicate of CS12(amended)
 REQ-ID: AW13
 Description: The product should store booking details against each property, with dates and details of the booking
 Type: 9 / Functional Requirement
-Rationale: When a booking is made it needs to be stored against a property so its availabilty is clear.
+Rationale: When a booking is made it needs to be stored against a property so its availability is clear.
 Originator: Aysha Jayakodi
 Comments: [DKR] AW13 & DUB004 are duplicates for recording property booking details
 Comments: [DKR] DUB004 deleted as duplicate of AW13
+Comments: [DKR] AW13, JC21 & JC22 all deal with maintaining property booking records
+Comments: [DKR] Also, JC21 & JC22 reference 'property diary' which can be seen as technological bias; such terminology should be removed
+Comments: [DKR] JC21 & JC22 are deleted as duplicates of AW13
 
 REQ-ID: AW14
 Description: The product shall have clear contact details, and allow easy enquiries.
@@ -142,6 +145,7 @@ Description: The property diary will have records of all existing bookings
 Type: Functional
 Rationale: This data is required to ensure that the same property is not booked to more than one holiday maker at the same time.
 Originator: Ayisha Jayakodi
+Comments: [DKR] JC21 & JC22 reference 'property diary' which can be seen as technological bias; this terminology should be removed
 
 REQ-ID: TH23
 Description: The product shall accept payment to book a property
