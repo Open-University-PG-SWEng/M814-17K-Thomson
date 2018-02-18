@@ -9,7 +9,7 @@ Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2,
 REQ-ID: 3
 Description: The product shall accept special arrangements for the bookings
 Type: 9 / Functional Requirement
-Rationale: Holidaymakers can have speacial arrangement such as a cot
+Rationale: Holidaymakers can have special arrangement such as a cot
 Originator: Ayisha Jayakodi
 
 REQ-ID: 4
@@ -89,6 +89,7 @@ Comments:  LandBNB can be contacted by phone or email and a reference Id will ma
 Comments: [DKR] CS12 & BIB19 duplicate the functionality of entering property details
 Comments: [DKR] CS12 amended to refine wording & correct format of description
 Comments: [DKR] Deleted BIB19 as redundant, duplicate of CS12(amended)
+Comments: [DKR] Deleted REQ-ID 7 as redundant, duplicate of CS12(amended), & for introducing technological bias (user interface)
 
 REQ-ID: AW13
 Description: The product shall store booking details against each property, with dates and details of the booking
