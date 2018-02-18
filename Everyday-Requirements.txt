@@ -4,7 +4,7 @@ Description: The product shall validate the search input value
 Type: 9 / Functional Requirement
 Rationale: Search term must be valid to prevent errors or incorrect results
 Originator: DB
-Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: 3
 Description: The product shall accept special arrangements for the bookings
@@ -23,7 +23,7 @@ Description: The product shall show an overview of each property including: Phot
 Type: 9 / Functional Requirement
 Rationale: The customer needs to be presented relevant information on each property in the search results to allow then to quickly judge its suitability.
 Originator: Ayisha Jayakodi
-Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: 8
 Description: The product shall have a login facility
@@ -31,7 +31,7 @@ Type: Functional requirement
 Rationale: The website must distinguish registered users and the general public
 Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
 Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
-Comments [DKR] Minor amendments to correct format of description (REQ-ID 8)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: DKR9
 Description: The product shall accept one or more property search criteria entered by the user
@@ -39,11 +39,8 @@ Type: Functional
 Rationale: The product must accept valid search criteria in order to perform the property search, while the number/type of search criteria to be entered should remain flexible to be most useful to the user
 Originator: Ayisha Jayakodi, Customer Service Agent
 Comments: [DKR] Flexible search criteria allows for both broader searches (e.g. location-only when researching a holiday) and narrower searches with exact criteria (e.g. when fixing an itinerary).
-Comments: [DKR] REQ-ID 1, GD1, DKR9, JS28 and hotrod2 all show similar or duplicate search functionality
-Comments: [DKR] JS28 has been retained to reflect basic search functionality, but amended to replace 'availability' with 'date'
-Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria, but amended to reflect data entry by a generic user
-Comments: [DKR] REQ-ID 1, GD1 and hotrod2 have been deleted as duplicates; hotrod2 may also be seen as a NFR based on the rationale provided
-Comments: [DKR] Minor amend to DKR9 (remove 'valid' as duplicates with REQ-ID 2)
+Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria; amended to reflect data entry by a generic user
+Comments: [DKR] Minor amendment to remove 'valid' as duplicates with REQ-ID 2
 
 REQ-ID: DKR10
 Description: The product shall allow the user to refine the search criteria
@@ -69,7 +66,7 @@ Type:  Functional requirement
 Rationale:  Holidaymakers  Should be able to see an image of a rental property when visiting the website.
 Originator:  Aysha Jayakodi
 Comments: The first instance of the website will only be advertising the properties
-Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
+Comments [DKR] Minor amendment to correct format of description
 
 REQ-ID: CS12(amended)
 Description: The product shall accept property details entered by the user for a unique property Reference ID.
@@ -77,29 +74,21 @@ Type:  Functional requirement.
 Rationale:  Prospective holidaymakers interested in a property should be able to identify and reference the property when contacting LandBNB. 
 Originator:  Aysha Jayakodi
 Comments:  LandBNB can be contacted by phone or email and a reference Id will make finding the property easy.
-Comments: [DKR] CS12 & BIB19 duplicate the functionality of entering property details
-Comments: [DKR] CS12 amended to refine wording & correct format of description
-Comments: [DKR] Deleted BIB19 as redundant, duplicate of CS12(amended)
-Comments: [DKR] Deleted REQ-ID 7 as redundant, duplicate of CS12(amended), & for introducing technological bias (user interface)
+Comments: [DKR] Amended to refine wording & correct format of description
 
 REQ-ID: AW13
 Description: The product shall store booking details against each property, with dates and details of the booking
 Type: 9 / Functional Requirement
 Rationale: When a booking is made it needs to be stored against a property so its availability is clear.
 Originator: Aysha Jayakodi
-Comments: [DKR] AW13 & DUB004 are duplicates for recording property booking details
-Comments: [DKR] DUB004 deleted as duplicate of AW13
-Comments: [DKR] AW13, JC21 & JC22 all deal with maintaining property booking records
-Comments: [DKR] Also, JC21 & JC22 reference 'property diary' which can be seen as technological bias; such terminology should be removed
-Comments: [DKR] JC21 & JC22 are deleted as duplicates of AW13
-Comments: [DKR] Minor amendments to correct format of description (AW13, BIB20)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: AW14
 Description: The product shall have clear contact details, and allow easy enquiries.
 Type: 9 / Functional Requirement
 Rationale: It needs to be as straight forward as possible for someone viewing a property to be able to contact an Agent.
 Originator: Aysha Jayakodi
-Comments [DKR] Minor amendments to correct format of description (AW14)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: DUB003
 Description: The product shall produce property booking confirmation.
@@ -112,21 +101,21 @@ Description: The product shall process payments of holidaymakers.
 Type: Functional requirement
 Rationale: Processing payments manually is error-prone. It contains a business risk of revenue loss when not handled properly. To avoid this, an automatic payment processing system is suggested.
 Originator: Ayisha Jayakodi (Landbnb agent)
-Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: PS18
 Description: The product shall store and retrieve bookings.
 Type: Functional requirement
 Rationale: The bookings should be conflict-free, the booked dates of a property must not overlap. Checking for overlaps should be done by the product (new, derived requirement), which cannot be done without being able to store and retrieve bookings.
 Originator: Ayisha Jayakodi (Landbnb agent)
-Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: BIB20
 Description: The product shall validate the property details inputted by the customer service agent.
 Type: Functional Requirement
 Rationale: The website is intended to display, amongst other things, the available rental properties through Landbnb. Human input errors, such as two customer service agents inputting the same property twice therefore creating a duplicate, should be avoided. 
 Originator: Landbnb customer service agent (Ayisha Jayakodi)
-Comments: [DKR] Minor amendments to correct format of description (AW13, BIB20)
+Comments: [DKR] Minor amendment to correct format of description
 
 REQ-ID: TH23
 Description: The product shall accept payment to book a property
@@ -163,14 +152,11 @@ Description: The product shall enable searches for properties based on type, cos
 Type: Functional Requirement
 Rationale: If users cannot easily identify properties based on their criteria they are unlikely to use the service  
 Originator: JS
-Comments: [DKR] REQ-ID 1, GD1, DKR9, JS28 and hotrod2 all show similar or duplicate search functionality
-Comments: [DKR] JS28 has been retained to reflect basic search functionality, but amended to replace 'availability' with 'date'
-Comments: [DKR] DKR9 has been retained to reflect flexibility of search criteria
-Comments: [DKR] REQ-ID 1, GD1 and hotrod2 have been deleted as duplicates; hotrod2 may also be seen as a NFR based on the rationale provided
+Comments: [DKR] JS28 has been retained to reflect basic search functionality; amended to replace 'availability' with 'date'
 
 REQ-ID: hotrod1
 Description: The product shall store contact details and preferences of all prospective holidaymaker clients; if available
 Type:  Functional Requirement
 Rationale: For future marketing purposes
 Originator: hotrodm
-Comments [DKR] Minor amendments to correct format of description (REQ-ID 2, GD2, CS11, PS17, PS18, hotrod1)
+Comments: [DKR] Minor amendment to correct format of description
