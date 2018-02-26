@@ -205,5 +205,14 @@ Type:  Functional Requirement
 Rationale: To enable fast and efficient searching for prospective holidaymaker clients attempting to find appropriate property vacancies
 Originator: hotrodm
 
+REQ-ID: RAS
+Description: The product shall accept an input set of needs/parameters.
+Rationale: To be able to match properties from the database to the prospective holidaymaker’s requirements.
+Originator: Aysha Jayakodi
+
+REQ-ID: RAS
+Description: The product shall output a selection of properties from the database which meet the needs/parameters entered.
+Rationale: To allow the prospective holidaymaker to see the properties that meet their criteria to choose where to stay.
+Originator: Aysha Jayakodi
 
 
