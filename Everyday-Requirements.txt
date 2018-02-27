@@ -215,4 +215,24 @@ Description: The product shall output a selection of properties from the databas
 Rationale: To allow the prospective holidaymaker to see the properties that meet their criteria to choose where to stay.
 Originator: Aysha Jayakodi
 
+REQ-ID: JB33
+Description: Enable application to use phone camera to take property photos.
+Type: Functional Requirement
+Rationale: To streamline the process of creating a new listing for a property.
+Originator: JB
+Comments: This is a duplicate requirement to CS11.
+Comments: This requirement will be pushed to the remote repository.
+
+REQ-ID: JB34
+Description: Provide functionality to input property and owner details into application.
+Type: Functional Requirement
+Rationale: To help store all information in a single application, and to protect clients' data.
+Originator: JB
+Comments: This is a duplicate requirement to 7, DUB001, CS12, AW13 and BIB19.
+Comments: This requirement will be pushed to the remote repository.
+
+
+
+
+
 
