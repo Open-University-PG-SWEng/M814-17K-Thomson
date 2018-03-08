@@ -1,0 +1,15 @@
+REQ-ID: DN03
+Description: The website message when a customer tries to book an unavailable property should be friendly, clear, and polite.
+Type: 11d understandability and politeness requirements
+Rationale: The website messages should not insult customers or cause them to leave the website 
+Fit Criterion: (i) 95% of a representative population sample group should rate the messages as at least polite, understandable and non-patronising.
+(ii) 90% of customers who see the message should visit another page on the site.
+(iii) During website usage, the website messages should recieve less than 1% customer complaints.
+(iv) During usage, customer satisfaction survey's should show statistically that most (i.e. 90%) found the website friendly, clear, and polite.
+Originator / Dependencies: REQ-ID: 4
+Comments: [DN]. To collect data people must be willing to participate in a survery and this can be difficult to organize, therefore the perhaps the 
+survery could be built into the website and then the initial data could be collected from people who are willing to test the website. The message itself could 
+contain a survey question asking customers for a politeness rating e.g. "how would you rate this message?". Data could then be collected from customers
+who visit the site and they could be asked some (maybe 1) customer satisfaction questions. 
+
+
