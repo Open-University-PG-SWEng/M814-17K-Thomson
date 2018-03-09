@@ -4,6 +4,6 @@ Type: 11a/Usability and humanity – ease of use
 Rationale: Users may upload property images during a property visit, either from a mobile device or taken directly with a phone camera, and will need to be confident the images have been successfully uploaded and stored before leaving the property.
 Fit Criterion: A sample of users (LandBnb’s customer service agents and representative property owners) will test a prototype image-upload interface using the expected input devices (desktop, mobile device, camera phone) and will correctly identify, in 100% of test occasions, whether or not the product had successfully uploaded and stored the images.
 Originator: Arising from functional requirement CS11
-Comments: [] ...
+Comments: [DKR] This requirement will be important not just for the initial website product (used by LandBnb agents) but also when rolled out to other users (property owners).
 
 
