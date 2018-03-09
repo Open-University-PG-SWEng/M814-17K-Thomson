@@ -5,5 +5,4 @@ Rationale: When dealing with post booking queries, where the booking reference n
 Fit Criterion: The holidaymaker shall be able to locate and quote the booking reference number when requested in over 80% of post booking queries. 
 Originator: Jane Sedman
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
-
+[RS] If 80% is acceptable, in what 20% of cases would it not be? I like the NFR, it's good, I'd just consider if 80% is actually an acceptable pass rate for such an easy and mandatory requirement.
