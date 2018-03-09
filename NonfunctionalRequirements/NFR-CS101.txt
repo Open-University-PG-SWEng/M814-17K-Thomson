@@ -1,0 +1,17 @@
+REQ-ID: CS101
+
+Description:The product should have clear contact details, and allow easy enquiries. This should be in the form of two data points: 
+LandBNB Telephone number, and email link on the website home. When you click on the email web link it takes you to an email webpage 
+that allows you to email Landbnb from with the website (no login required). 
+
+Type: 11 (Usability and Humanity)
+
+Rationale: It needs to be as straightforward as possible for someone viewing a property to be able to contact an Agent. 
+
+Fit Criterion:Customers should not require user login to access contact details and should be displayed in “bold font text” on the website home page and footer of every webpage navigated to by users!
+
+Originator: inffered from Req ID AW14 
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
