@@ -1,0 +1,9 @@
+REQ-ID: NFR-GD2
+Description: The search results are returned in a reasonable amount of time.
+Type: 12 - Performance
+Rationale: Users will potentially want to run several searches, and will expect the results to appear quickly. Slow searches will result in customers becoming tired of waiting and going elsewhere. Larger searches could use techniques such as pagination to return only a subset at one time.
+Fit Criterion: Search results are always returned in under 5 seconds
+Originator: Inffered from functional requirement ID - GD2
+Comments: 
+
+
