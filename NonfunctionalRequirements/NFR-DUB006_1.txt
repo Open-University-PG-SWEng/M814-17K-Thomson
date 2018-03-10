@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+REQ-ID: DUB006
+Description: The product shall be easy to use.
+Type: Usability and humanity
+Rationale: Holidaymakers are people from various age group, cultural and educational background and like convenient. They will not want to waste so much time in finding their way round a website in order to book a property.
+Fit Criterion: 95% of the holidaymakers shall be able to book his/her property within 10minutes on his/her first contact with the Landbnb website.
+Originator: Derived from functional requirement AW13 (Make Booking).
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+=======
+REQ-ID: DUB006
+Description: The product shall be easy to use.
+Type: Usability and humanity
+Rationale: Holidaymakers are people from various age group, cultural and educational background and like convenient. They will not want to waste so much time in finding their way round a website in order to book a property.
+Fit Criterion: 95% of the holidaymakers shall be able to book his/her property within 10minutes on his/her first contact with the Landbnb website.
+Originator: Derived from functional requirement AW13 (Make Booking).
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+>>>>>>> fa4420c087e347a4269e1a7367de981efa3b399a
