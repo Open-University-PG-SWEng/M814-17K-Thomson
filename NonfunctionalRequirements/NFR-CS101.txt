@@ -13,5 +13,4 @@ displayed in “bold font text” on the website home page and footer of every webpa
 
 Originator: inffered from Req ID AW14 
 
-Comments: This non-functional require seems not that important but without holidaymakers being able to contact Landbnb,
- will loose business and revenue.
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
