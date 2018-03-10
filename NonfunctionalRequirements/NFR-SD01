@@ -1,0 +1,9 @@
+REQ-ID:NFR-SD01
+
+Description: Dates of availability of a property should be refreshed/ reloaded in every 5 seconds. Only available dates on the calendars can be selected and dates when the property is unavailable should be greyed out/inactive (Assuming calendars will be used for date selection).
+Type: Performance
+Rationale: Users need to be provided with an uptodate date range and a property can get booked while other users are browsing it. This refresh will stop any double booking from occurring.  
+Fit Criterion: Date of availability will change if a property becomes booked by a different customer while another customer is browsing the same property
+Originator: SD
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
