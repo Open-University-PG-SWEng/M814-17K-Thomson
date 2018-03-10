@@ -1,0 +1,7 @@
+REQ-ID: NFR-GD01
+Description: The system shall keep an audit trail of all successful and unsuccessful login attempt.
+Type: 15d - Security - Audit requirements 
+Rationale: To support the detection/discovery of malicious activity, as well as understanding if customers struggle with the login process.
+Fit Criterion: The audit log shall retain at minimum: Time of the login, IP address, username and success/failure. This should be retained for 90 days minimum.
+Originator: From functional requirement 8
+Comments: 

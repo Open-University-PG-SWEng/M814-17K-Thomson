@@ -36,13 +36,6 @@ Rationale: The website must distinguish registered users and the general public
 Originator: Ayisha Jayakodi (consequence of REQ-ID: 7)
 Comments: This requirement is also linked to a standard website security requirement concerning user access privaleges
 
-REQ-ID: DKR9
-Description: The product shall accept one or more valid property search criteria (type, location, price, date range, etc)
-Type: Functional
-Rationale: The product must accept valid search criteria in order to perform the property search, while the number/type of search criteria to be entered should remain flexible to be most useful to the user
-Originator: Ayisha Jayakodi, Customer Service Agent
-Comments: [DKR] Flexible search criteria allows for both broader searches (e.g. location-only when researching a holiday) and narrower searches with exact criteria (e.g. when fixing an itinerary).
-
 REQ-ID: DKR10
 Description: The product shall allow the user to refine the search criteria
 Type: Functional
@@ -121,33 +114,3 @@ Description: The product shall record payment for property bookings
 Type: Functional Requirement
 Rationale: The product should assure that payment is paid or isn't paid again.
 Originator: Ayisha Jayakodi
-
-REQ-ID: SD25
-Description: The product shall accept request from owners for an agent's visit at a future date when owner will not be available him/herself.
-Type: Functional Requirement
-Rationale: It is important for the agency and owners to make sure that the property is in good condition and safe to rent out.
-Originator: SD
-
-REQ-ID: SD26
-Description: The product shall accept payment for the property visit service
-Type: Functional Requirement
-Rationale: This is additional service, so a fee is necessary for the visiting agent's time.
-Originator: SD
-
-REQ-ID: JS27
-Description: The product shall record rental rates with associated dates for each property
-Type: Functional Requirement
-Rationale: The holidaymaker requires property rental cost information to make rental decisions.
-Originator: SD
-
-REQ-ID: JS28
-Description: The product shall enable searches for properties based on type, cost, location and availability information
-Type: Functional Requirement
-Rationale: If users cannot easily identify properties based on their criteria they are unlikely to use the service  
-Originator: JS
-
-REQ-ID: hotrod1
-Description: The product will store contact details and preferences of all prospective holidaymaker clients; if available
-Type:  Functional Requirement
-Rationale: For future marketing purposes
-Originator: hotrodm

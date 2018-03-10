@@ -1,0 +1,9 @@
+REQ-ID: NFR-TH01
+Description:  The product shall accept requests from homeowners for an inspection visit from an Agent to take down particulars.
+Type: 11 - Usability and Humanity 
+Rationale:  Homeowners must find the product easier to book an appointment than calling the office and making the arrangement over the phone.
+Fit Criterion: Sixty percent of users that fail book an appoint within 5 minutes will call a rival company.
+Originator: Functional requirement REQ-ID: SD25
+Comments: [TH] I’ve changed the description to reflect what was specified in the interview. This NFR is important as it's the first interaction the Homeowner has with Landbnb, therefore it's important that the product makes a good impression on the Homeowner.
+
+
