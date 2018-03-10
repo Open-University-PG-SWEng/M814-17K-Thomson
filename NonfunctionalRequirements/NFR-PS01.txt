@@ -1,6 +1,0 @@
-REQ-ID: PS01
-Description: The product shall be able to retrieve bookings in a reasonable amount of time.
-Type: 12 - Performance
-Rationale: Retrieval of the bookings shall be part of multiple product use cases, e.g. it shall be part of checking for overlapping booking that must be done as quick as possible so the potential customer does not lose interest. The flow of work should not be interrupted by loading time of bookings.
-Fit Criterion: It is possible to retrieve a booking in under 2 seconds 100% of the time.
-Originator: inferred from REQ-ID: PS18
