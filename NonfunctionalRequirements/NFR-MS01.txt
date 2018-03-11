@@ -1,0 +1,9 @@
+REQ-ID: MS01
+Description: The product shall clearly ask for special arrangements on the booking
+Type: 11 Usability and Humanity Requirements
+Rationale: In the booking process it is important to clearly ask special arrangements to avoid contacts by phone and abandonment on the booking process
+Fit Criterion:
+	* At least 90% of weekly special arrangements must be filled on the booking process and not by phone 
+	* Less than 10% of booking abandonments should be at filling special arrangements step
+Originator: Mauro Szuchman
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
