@@ -6,3 +6,4 @@ Fit Criterion: The holidaymaker shall be able to locate and quote the booking re
 Originator: Jane Sedman
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [RS] If 80% is acceptable, in what 20% of cases would it not be? I like the NFR, it's good, I'd just consider if 80% is actually an acceptable pass rate for such an easy and mandatory requirement.
+[PS] I would consider raising 80% to 100% as Landbnb may also be legally obliged to display the history of bookings in case of invoice loss from the customer side.
