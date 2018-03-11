@@ -7,4 +7,4 @@ Fit Criterion: Date of availability will change if a property becomes booked by 
 Originator: SD
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
+[MS] Fit criterion must be measurable. For example, it could be: 100% of validation errors due to busy dates, should be caused by bookings made up to five seconds before the booking whose trying to be submitted
