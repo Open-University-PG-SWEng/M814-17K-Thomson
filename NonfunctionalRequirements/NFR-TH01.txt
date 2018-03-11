@@ -6,3 +6,4 @@ Fit Criterion: Sixty percent of users that fail book an appoint within 5 minutes
 Originator: Functional requirement REQ-ID: SD25
 Comments: [TH] I’ve changed the description to reflect what was specified in the interview. This NFR is important as it's the first interaction the Homeowner has with Landbnb, therefore it's important that the product makes a good impression on the Homeowner.
 [PS] Homeowner should be renamed to property owner as this is the term that was used during the interviews. The fit criterion should specify a measurable goal to achieve, not the consequence of not reaching the goal.
+[MS] Fit criterion should be quantifiable to validate the requirement. For example: More than X% (ie: 80%) of the request of property owners should be made online and the average time to make the request online should be lesser than calling 

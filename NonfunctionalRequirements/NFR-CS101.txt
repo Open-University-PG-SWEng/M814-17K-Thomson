@@ -14,3 +14,4 @@ displayed in “bold font text” on the website home page and footer of every webpa
 Originator: inffered from Req ID AW14 
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[MS] Fit Criterion is restricting the solution when it mentions how contact details has to be shown. The fit criterion should be measurable, for example: it can be tested by a prototype and measure if the percentage of users who can find contact details is greater than a threshold
