@@ -4,4 +4,7 @@ Type: Usability and humanity
 Rationale: Holidaymakers are people from various age group, cultural and educational background and like convenient. They will not want to waste so much time in finding their way round a website in order to book a property.
 Fit Criterion: 95% of the holidaymakers shall be able to book his/her property within 10minutes on his/her first contact with the Landbnb website.
 Originator: Derived from functional requirement AW13 (Make Booking).
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+Comments: [DKR] 1. This is an important requirement which is relevant, traceable and clear. The fit criterion is measurable, but I think it can be improved on as it's not currently clear how holidaymakers will perform the test or when it will be tested.
+[DKR] 2. I suggest the fit criterion states that testing will be carried out during user acceptance testing of the website before it goes live (since we can't wait until after go-live before checking this critical requirement).
+[DKR] 3. A smaller point is to know where the numbers in the fit criterion have come from; they seem reasonable to me, but it would be good to have evidence to back them up if available.
+[DKR] 4. A final (very picky) point: I would give the NFR type as '11a/Usability & humanity/ease of use' just to be consistent with the approach in MRP.
