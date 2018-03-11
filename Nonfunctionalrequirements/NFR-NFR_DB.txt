@@ -1,8 +1,0 @@
-REQ-ID: NFR_DB
-Description:  User Interface for important operations must be distinct and intuitive
-Type: Usability
-Rationale:  The customer must be able to find and use this feature easily, but also must not accidentally trigger it.
-Fit Criterion:  Customers can use this with a good success rate, with minimal accidental uses
-Originator:  DB – inferring from Functional Requirement DUB002
-
-
