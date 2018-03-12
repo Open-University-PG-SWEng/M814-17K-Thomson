@@ -15,4 +15,5 @@ Originator: Derived from function: hotrod1.
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
+[DUB] : I find the fit criterion ok. However, I found the sentence in the “ Description” a little bit too long. Why not just say “the product shall be secured”.
 
