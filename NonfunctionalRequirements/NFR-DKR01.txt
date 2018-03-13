@@ -5,5 +5,5 @@ Rationale: Users may upload property images during a property visit, either from
 Fit Criterion: A sample of users (LandBnb’s customer service agents and representative property owners) will test a prototype image-upload interface using the expected input devices (desktop, mobile device, camera phone) and will correctly identify, in 100% of test occasions, whether or not the product had successfully uploaded and stored the images.
 Originator: Arising from functional requirement CS11
 Comments: [DKR] This requirement will be important not just for the initial website product (used by LandBnb agents) but also when rolled out to other users (property owners).
-
+[DN] The fit criterion is 100% success of image uploads. This is a measurable fit criterion.
 
