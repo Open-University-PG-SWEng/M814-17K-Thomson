@@ -1,9 +1,0 @@
-REQ-ID: DUB006
-Description: The product shall be easy to use.
-Type: 11a. Usability & Humanity/Ease of use
-Rationale: Holidaymakers are people from various age group, cultural and educational background and like convenient. They will not want to waste so much time in finding their way round a website to book a property.
-Fit Criterion: 95% of the holidaymakers shall be able to book his/her property within 10minutes on his/her first contact with the Landbnb website. I find 95% and 10minutes reasonable values after questioning some people that have booked a property for a holiday using other websites.
-The fit criterion could be tested by using Landbnb prototype website during the acceptance test. This could be done by selecting people of different age group, educational and cultural background,  and timing how long it takes them to make a booking for a property. The timing could be done either by watching them live while making the booking and using a timer or taking a survey to ask how long it takes them to make the booking.
-Originator: Derived from functional requirement AW13 (Make Booking).
-Comments:
-[AW] I like the detail in the fit criteria, especially the mention of acceptance testing, this looks good. I would just suggest the rationale is missing the end of the sentance at 'cultural and educational background and like convenient'. Could also include these groups having different needs and find different things 'easy to use'.

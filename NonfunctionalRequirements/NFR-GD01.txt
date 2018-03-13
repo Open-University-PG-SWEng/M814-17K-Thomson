@@ -1,8 +1,0 @@
-REQ-ID: NFR-GD01
-Description: The system shall keep an audit trail of all successful and unsuccessful login attempt.
-Type: 15d - Security - Audit requirements 
-Rationale: To support the detection/discovery of malicious activity, as well as understanding if customers struggle with the login process.
-Fit Criterion: The audit log shall retain at minimum: Time of the login, IP address, username and success/failure. This should be retained for 90 days minimum.
-Originator: From functional requirement 8
-Comments: [DKR] This is an important NFR which I think would pass most tests in the Quality Gateway. However, while the current fit criterion can be tested (the product either does or does not comply with the stated minimum requirements), I believe it can be strengthened by adding: 'The audit log has been confirmed by the relevant auditing body/bodies* as meeting the relevant audit rules.' [recommended in MRP Appendix A, Section 15d]. *Relevant auditors might be: financial auditors (re: order/payment processing); data auditors (in terms of data protection/GDPR compliance); payment processing auditors (ensuring product audit log meets any needs within PCI-DSS compliance).
-
