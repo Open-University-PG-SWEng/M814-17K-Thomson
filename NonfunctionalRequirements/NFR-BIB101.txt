@@ -6,4 +6,5 @@ Fit Criterion: Both current customer service agents shall be able to use the pro
 Originator: Inferred from REQ-ID: BIB19
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
-
+[AW] The requirement looks good, the rationale is specific and the fit criterion give hard values. The fit criterion should possibly mention the formal training part of the rationale, e.g. within one day, without any training.
+[DN] The fit criterion is measurable however the product may go through several iterations and users may become more accustomed to using the product, therefore the fit criterion would need to be measured with an independant group (i.e a survey)

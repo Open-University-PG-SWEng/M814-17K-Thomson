@@ -4,3 +4,6 @@ Type: 12 - Performance
 Rationale: Retrieval of the bookings shall be part of multiple product use cases, e.g. it shall be part of checking for overlapping booking that must be done as quick as possible so the potential customer does not lose interest. The flow of work should not be interrupted by loading time of bookings.
 Fit Criterion: It is possible to retrieve a booking in under 2 seconds 100% of the time.
 Originator: inferred from REQ-ID: PS18
+
+Comments: [DUB]. I find the fit criterion ok. However, the term “The flow of work should not be interrupted by loading time of bookings” might be too technical for the stakeholders. Consider using a less technical word. 
+More so, “2 seconds 100% of the time” might not be achievable. Have you thought of the time/period of malfunction of the product?
