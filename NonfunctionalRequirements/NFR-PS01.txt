@@ -8,6 +8,4 @@ Originator: inferred from REQ-ID: PS18
 Comments: [DUB]. I find the fit criterion ok. However, the term “The flow of work should not be interrupted by loading time of bookings” might be too technical for the stakeholders. Consider using a less technical word. 
 More so, “2 seconds 100% of the time” might not be achievable. Have you thought of the time/period of malfunction of the product?
 
-
-
-[cs] the Fit fit criterion will be hard to verify when the website go live becuase network speed will very and no error will be generated or no sensible way of measuring this fit criterion in the field. 
+ 

@@ -13,5 +13,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [DKR] 4. Finally, I would recommend referring to the original functional requirement, for traceability.
 
 
-
-[CS] the booking reference number should be a active area that flashing or changes colour when the mouse is over it. 
+ 

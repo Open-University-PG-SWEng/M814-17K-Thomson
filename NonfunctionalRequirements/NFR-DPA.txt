@@ -19,5 +19,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 [DN]: The need for 100% certainty in the fit criterion is correct in my opinion.
 [SD]: As data protection being more stricter, I think the fit criterion is the only way to measure the NFR.
-
-[cs] Fit criterion is not valid as this is not a test the developer can perform to test if the requirement completed.  
+ 

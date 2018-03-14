@@ -8,5 +8,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 [AW] The requirement looks good, the rationale is specific and the fit criterion give hard values. The fit criterion should possibly mention the formal training part of the rationale, e.g. within one day, without any training.
 [DN] The fit criterion is measurable however the product may go through several iterations and users may become more accustomed to using the product, therefore the fit criterion would need to be measured with an independant group (i.e a survey)
-
-[CS] This NFR is too global and trys to capture and cast to wide a net NFR, because most administration staff such a "customer service agents" will be give training for both High level site admin operation general booking query before the site go live. 
+ 

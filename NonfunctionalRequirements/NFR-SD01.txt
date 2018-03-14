@@ -11,5 +11,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [JS] The description makes reference to a 5s time limit yet the fit criterion does not measure against a timescale.  Alternatively th fit criterion could measure the percentage of occurances that the 5s requirement is met.
 [SD] I agree to the above comments that the fit criterion needs to be measurable.
 
-
-[cs] The book functionality can implement a timestamp feature that is much more granular in time, to the nano second in stead of date this will avoid conflict in display update for people making property bookings.
+ 

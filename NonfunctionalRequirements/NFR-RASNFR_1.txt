@@ -8,7 +8,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [JS] The fit criteria is specific, however the time may depend on factors outside the control of the product such as the user's internet connection.  Hence 100% may not be achieveable.
 
 
-
-[cs] testing this fit criterion may be hard to measure because network speeds will vary over any distributed system and if the system gets to busy.  
-
-
+ 

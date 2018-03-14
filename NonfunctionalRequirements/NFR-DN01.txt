@@ -12,5 +12,4 @@ Comments: [DN]. To collect data people must be willing to participate in a surve
 [PS] Fit criterion (ii) is not measurable; (iv) also not measurable, a concrete number should be given.
 
 
-
-[CS] The fit criterion should say "if you visit a property booking page of a property that your interested in and the property is already booked" the button that take you to the next booking page will not be visible (Deactived) and a "Already Booked message displayed", stopping you wasting time try to click any button trying to book, the fit criterion measurability is a binary one( button visible/non-visible). 
+ 
