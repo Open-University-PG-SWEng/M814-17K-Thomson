@@ -9,3 +9,6 @@ Comments: [TH] I’ve changed the description to reflect what was specified in t
 [PS] Homeowner should be renamed to property owner as this is the term that was used during the interviews. The fit criterion should specify a measurable goal to achieve, not the consequence of not reaching the goal.
 [MS] Fit criterion should be quantifiable to validate the requirement. For example: More than X% (ie: 80%) of the request of property owners should be made online and the average time to make the request online should be lesser than calling 
 [DUB] In my opinion,the description is a functional requirement and not a Non-Functional requirement. And in the fit criterion the sentences are not clear (users that fail book an appoint ???).
+
+
+[cs] not a  valid non-functional require, not a non-function property about system or function requirement, but this is a functional requirement. if the description say:(The product shall notify a requests from a homeowners for an inspection visit from an Agent to take down particulars within 1 hour), this may be classed as non-functional requirement.

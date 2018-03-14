@@ -7,3 +7,7 @@ Originator: Inffered from functional requirement ID - GD2
 Comments: [DN] The fit criterion is measurable and therefore a good fit criterion, however in practice this might not be correct because sometimes net speeds can be lower during peak usage times, there could also be situations when the web server is busy
 [GD] I would propose the fit criterion is expanded to account for any local internet speed issues. So something like "..., using a tested minimum Internet connection speed of 2Mbps"
 [TH] I think the fit criterion is measurable, but needs to be expanded, for example 5 seconds for a 20Mb connection, 7 seconds for 3g, etc.....
+
+
+
+[cs]  most search normally return a wildcard search meaning it will return more than one item, to achieve this non-function requirement I would rephrase this non function requirement to say: ( The search results are returned in a reasonable amount of time when using the booking ref.) where you sure that one item will return.

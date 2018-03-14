@@ -7,3 +7,6 @@ The fit criterion could be tested by using Landbnb prototype website during the 
 Originator: Derived from functional requirement AW13 (Make Booking).
 Comments:
 [AW] I like the detail in the fit criteria, especially the mention of acceptance testing, this looks good. I would just suggest the rationale is missing the end of the sentance at 'cultural and educational background and like convenient'. Could also include these groups having different needs and find different things 'easy to use'.
+
+
+[cs] this non-requirement is to global and need dissecting to defined other function/Non-functionaal requirement and fit criterion that are quantifiable for developer implementing these functionality to measure (verification). 

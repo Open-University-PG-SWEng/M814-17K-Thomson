@@ -11,3 +11,6 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [SD] The fit criterion needs more specific measure like n% of the users find the website easy to use, or to specifically measure the length of website-use and acitivity on it.    
 
 
+[cs] this non-functional requirement is very global and will need to be dissected into more fit criterions that will allow the non-functional requirement to be measurable by the developers and testers.
+
+
