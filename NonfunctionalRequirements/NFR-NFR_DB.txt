@@ -7,6 +7,7 @@ Originator:  DB – inferring from Functional Requirement DUB002
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 [BIB] The wording of this non-functional requirement is a little unclear. It starts in the description by referring to "important operations", however the rationale goes on to talk about the single feature this NFR appears to be based on: cancelling a booking. In addition, the fit criterion needs to be more specific, phrases like "good success rate" and "minimal accidental use" are too open to interpretation. Try something like: "95% of customers should be able to cancel their booking through the product without the need to phone Landbnb".
-[JS] The fit criteron is not readily measureable, no scale is given for how we assess success rate and accidental use, and no objective pass/fail criteria is given.  
+[JS] The fit criteron is not readily measureable, no scale is given for how we assess success rate and accidental use, and no objective pass/fail criteria is given.
+[SD] The fit criterion needs more specific measure like n% of the users find the website easy to use, or to specifically measure the length of website-use and acitivity on it.    
 
 
