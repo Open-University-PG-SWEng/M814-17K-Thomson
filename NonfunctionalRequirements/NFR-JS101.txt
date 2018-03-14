@@ -1,0 +1,17 @@
+REQ-ID: JS101
+Description: The produce shall clearly display the booking reference number in the booking confirmation
+Type: 10 (Look and Feel)
+Rationale: When dealing with post booking queries, where the booking reference number is quoted Landbandb agents can locate booking records significantly quicker and the risk of confusion between similar bookings is reduced. 
+Fit Criterion: The holidaymaker shall be able to locate and quote the booking reference number when requested in over 80% of post booking queries. 
+Originator: Jane Sedman
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[RS] If 80% is acceptable, in what 20% of cases would it not be? I like the NFR, it's good, I'd just consider if 80% is actually an acceptable pass rate for such an easy and mandatory requirement.
+[PS] I would consider raising 80% to 100% as Landbnb may also be legally obliged to display the history of bookings in case of invoice loss from the customer side.
+[DKR] 1. I understand Robert's comment about 'why 80% is the right measure', but I can imagine that often people phone up & don't have the right paperwork to quote the booking ref. Ideally there'd be real-world data available from LandBnb which backs this number up, but it would be good to understand why 80% is deemed the correct figure.
+[DKR] 2. Also, is this requirement about look & feel (appearance or style) or is it more about usability/efficiency (i.e. how easily/quickly the holidaymaker can find the booking reference)? Or perhaps both?
+[DKR] 3. The fit criterion currently leads me ask how long will it take those 80% of holidaymakers to find and quote the ref#. So I think it can be made more succinct & measurable by specifying, not just the % of people who can locate the ref#, but how *quickly* they can do so.
+[DKR] 4. Finally, I would recommend referring to the original functional requirement, for traceability.
+
+
+
+[CS] the booking reference number should be a active area that flashing or changes colour when the mouse is over it. 

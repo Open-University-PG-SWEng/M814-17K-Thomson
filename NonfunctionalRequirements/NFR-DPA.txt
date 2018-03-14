@@ -1,0 +1,23 @@
+REQ-ID: NFR-DPA
+
+Description: The product shall deal with all gathered personal information so as to comply with the Data Protection Act, (and its imminent replacement The General Data Protection Regulation (GDPR) which will apply throughout the EU from 25 May 2018).
+
+Type: 17a. Compliance Requirements
+
+Rationale: To stay within the law; and avoid crippling penalties. 
+
+	   Note: This NFR is global and applies to the entire project’s data storage concerns.
+
+Fit Criterion: Lawyers' verification that the product, and the proposed use of it, does not break any laws; with ‘100%’ certainty -  as far as you can trust lawyers.
+
+Originator: Derived from function: hotrod1.
+
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[DUB] : I find the fit criterion ok. However, I found the sentence in the “ Description” a little bit too long. Why not just say “the product shall be secured”.
+
+[DN]: The need for 100% certainty in the fit criterion is correct in my opinion.
+[SD]: As data protection being more stricter, I think the fit criterion is the only way to measure the NFR.
+
+[cs] Fit criterion is not valid as this is not a test the developer can perform to test if the requirement completed.  
