@@ -9,3 +9,4 @@ Originator: SD
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [MS] Fit criterion must be measurable. For example, it could be: 100% of validation errors due to busy dates, should be caused by bookings made up to five seconds before the booking whose trying to be submitted
 [JS] The description makes reference to a 5s time limit yet the fit criterion does not measure against a timescale.  Alternatively th fit criterion could measure the percentage of occurances that the 5s requirement is met.
+[SD] I agree to the above comments that the fit criterion needs to be measurable.
