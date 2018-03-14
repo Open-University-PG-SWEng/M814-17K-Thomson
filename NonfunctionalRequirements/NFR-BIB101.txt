@@ -2,7 +2,10 @@ REQ-ID: BIB101
 Description: The product shall be easy for customer service agents to use.
 Type: 11 (Usability and Humanity)
 Rationale: No formal training should be necessary in order to use the product.
-Fit Criterion: Both current customer service agents shall be able to use the product within 1 day of being introduced to it.
+
+Fit Criterion: Both current customer service agents shall be able to use the product within 1 day of being introduced to it without the need for formal training. 
+Further iterations of the product shall be usability tested by Landbnb staff with no prior experience, again within 1 day of introduction without formal training. 
+
 Originator: Inferred from REQ-ID: BIB19
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
