@@ -2,13 +2,13 @@ REQ-ID: DN03
 Description: The website message when a customer tries to book an unavailable property should be friendly, clear, and polite.
 Type: 11d understandability and politeness requirements
 Rationale: The website messages should be helpful and not insult customers or cause them to leave the website. 
-Fit Criterion: (i) 90% of a representative population sample group should rate the messages as at least friendly, clear and polite
-(ii) A statistically significant number of customers who see the message should visit another page on the site.
+Fit Criterion: (i) 90% of survey participants should rate the messages as at least friendly, clear and polite
+(ii) 90% (or a later discovered statistically significant number) of customers who see the message should visit another page on the site.
 (iii) During website usage, the website messages should recieve less than 1% customer complaints.
-(iv) During usage, customer satisfaction survey's should show statistically that most (i.e. 90%) found the website friendly, clear, and polite.
+(iv) During usage, customer satisfaction survey's should show that 90% found the website friendly, clear, and polite.
 (v) During usage, at least 75% of customers should say they find the message helpful in answer to a website question.
 Originator / Dependencies: REQ-ID: 4
 Comments: [DN]. To collect data people must be willing to participate in a survery and this can be difficult to organize, therefore the perhaps the survery could be built into the website and then the initial data could be collected from people who are willing to test the website. The message itself could contain a survey question asking customers for a politeness rating e.g. "was this message polite?". Data could then be collected from customers who visit the site and they could be asked some (maybe 1) customer satisfaction questions. 
 [PS] Fit criterion (ii) is not measurable; (iv) also not measurable, a concrete number should be given.
 [DB] As you will not be able to control who participates, we may want 'representative population sample group' to simply be 'survey participants' or similar, unless this is referring to an assembled test group.
- 
+[DN] I agree that (ii) and (iv) were not clearly measurable and have edited the NFR. I also changed 'representative population sample group' to 'survey participants'.
