@@ -2,7 +2,7 @@ REQ-ID: NFR-GD2
 Description: The search results are returned in a reasonable amount of time.
 Type: 12 - Performance
 Rationale: Users will potentially want to run several searches, and will expect the results to appear quickly. Slow searches will result in customers becoming tired of waiting and going elsewhere. Larger searches could use techniques such as pagination to return only a subset at one time.
-Fit Criterion: Search results are always returned in under 5 seconds
+Fit Criterion: Search results are always returned within good time. All results should be returned in under 5 seconds on a 2mb/s connection with the server under normal load.
 Originator: Inffered from functional requirement ID - GD2
 Comments: [DN] The fit criterion is measurable and therefore a good fit criterion, however in practice this might not be correct because sometimes net speeds can be lower during peak usage times, there could also be situations when the web server is busy
 [GD] I would propose the fit criterion is expanded to account for any local internet speed issues. So something like "..., using a tested minimum Internet connection speed of 2Mbps"
