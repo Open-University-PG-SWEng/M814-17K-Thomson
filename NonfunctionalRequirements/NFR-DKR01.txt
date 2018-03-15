@@ -10,4 +10,6 @@ Comments: [DKR] This requirement will be important not just for the initial webs
 
 [DKR 13/3] DN's comment suggest abiguity in my original NFR. The successful upload and storage functionality will be tested as part of the fit criterion/testing of FR CS11 while this NFR ensures users' *confidence* in the product's photo upload functionality, part of the product's overall usability. I have amended the Description, Rationale & Fit Criterion to try to remove this ambiguity.
 
+[MM] Good. All we are looking for is measurable ‘clarity of feedback’ here; which is achieved. The originating FR does the rest
+
  

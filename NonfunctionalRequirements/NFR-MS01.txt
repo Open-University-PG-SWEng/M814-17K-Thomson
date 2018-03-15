@@ -11,3 +11,8 @@ Comments: [DN] I think the fit criterion is pretty good, I would edit the first 
 
 [cs] this requirement need to specify which event would trigger the product to ask for "special arrangement on booking". is this triggered when data field in the booking user interface is left blank or some other queue? it's not clear in the fit criterion. 
 
+[MM] At first I thought this is very close to being a humble FR: As a matter of course, a programmer could have a modal selection come up that would force the user to clearly decide how to proceed at the appropriate point. 
+
+I now understand that the NFR bit of this is an imperative caution, so it is valid; although it can easily be achieved by the coder; 100% of the time.
+
+

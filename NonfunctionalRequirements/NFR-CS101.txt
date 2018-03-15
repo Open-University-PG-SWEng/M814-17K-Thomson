@@ -22,5 +22,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [GD] Fit criterion should be measurable, and not dictate a solution. I would suggest something like.... "A web site user not familiar with the site should be able to locate the company's contact details within 30 seconds 90% of the time, based on a sample of user."
 [TH] The fit criterion contains implementation detail, not sure if it's measurable. Maybe something along the lines of "The website should allow every user to send an email from opening the email page"
 [SD] The fit criterion looks more like a design solution. It needs to include a measure, e.g., within n seconds and nomore than 2n seconds, user should be able to navigate to contact details.
- 
- 
+[MM] As it stands the FC does not measure for clarity and ease. 

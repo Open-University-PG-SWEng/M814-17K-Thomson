@@ -19,4 +19,13 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 [DN]: The need for 100% certainty in the fit criterion is correct in my opinion.
 [SD]: As data protection being more stricter, I think the fit criterion is the only way to measure the NFR.
+
+[MM]Referring to an earlier comment that the description should perhaps say only “the product shall be secured”; I beg to ask the question:  
+
+	Against what? Rampaging buffalo, perhaps? 
+
+It would be interesting to see an FC written against that suggested description! Any takers?
+
+[MM]But seriously folks – don’t you think legally based NFRs’ look and feel just like constraints?
+
  

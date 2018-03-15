@@ -11,4 +11,11 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [JS] The description makes reference to a 5s time limit yet the fit criterion does not measure against a timescale.  Alternatively th fit criterion could measure the percentage of occurances that the 5s requirement is met.
 [SD] I agree to the above comments that the fit criterion needs to be measurable.
 
+[MM]I like this useful NFR (measurable 100% of the time; under normal operating conditions, of course).
+
+Although it’s very difficult for a website to technically achieve this; once posted the data on a page is usually static until a button is pressed. 
+
+But this can be done with some new Tec’ as phone apps’ often remind us. Good NFR, If it’s truly needed!
+
+
  
