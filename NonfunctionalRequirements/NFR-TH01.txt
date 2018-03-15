@@ -1,13 +1,21 @@
-﻿REQ-ID: NFR-TH01
-Description:  The product shall accept requests from homeowners for an inspection visit from an Agent to take down particulars.
+REQ-ID: NFR-TH01
+
+Description:  The product shall be easy to use when property owners need to make a request for an inspection visit from an Agent to take down particulars.
+
 Type: 11 - Usability and Humanity 
-Rationale:  Homeowners must find the product easier to book an appointment than calling the office and making the arrangement over the phone.
-Fit Criterion: Sixty percent of users that fail book an appoint within 5 minutes will call a rival company.
+
+Rationale: Homeowners must find the product easier to book an appointment than calling the office and making the arrangement over the phone, this will free up the Agent's time taking calls from property owners requesting inspection visits.
+
+Fit Criterion: Within 3 months of launching the website, 50% of booked property inspections will be made via the website.
+
 Originator: Functional requirement REQ-ID: SD25
-Comments: [TH] I’ve changed the description to reflect what was specified in the interview. This NFR is important as it's the first interaction the Homeowner has with Landbnb, therefore it's important that the product makes a good impression on the Homeowner.
+
+Comments: [TH] I’ve changed the description to reflect what was specified in the interview. This NFR has been updated to reflect the comments from peers.
 
 [PS] Homeowner should be renamed to property owner as this is the term that was used during the interviews. The fit criterion should specify a measurable goal to achieve, not the consequence of not reaching the goal.
+
 [MS] Fit criterion should be quantifiable to validate the requirement. For example: More than X% (ie: 80%) of the request of property owners should be made online and the average time to make the request online should be lesser than calling 
+
 [DUB] In my opinion,the description is a functional requirement and not a Non-Functional requirement. And in the fit criterion the sentences are not clear (users that fail book an appoint ???).
 
  
