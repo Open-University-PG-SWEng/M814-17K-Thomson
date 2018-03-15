@@ -23,5 +23,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [TH] The fit criterion contains implementation detail, not sure if it's measurable. Maybe something along the lines of "The website should allow every user to send an email from opening the email page"
 [SD] The fit criterion looks more like a design solution. It needs to include a measure, e.g., within n seconds and nomore than 2n seconds, user should be able to navigate to contact details.
  
-
-[cs] the fit criterion should be extended to include mouse over hotspots on the Telephone number and Email links (which is a binary measurement: "change colour whent mouseover hotspot").
+ 

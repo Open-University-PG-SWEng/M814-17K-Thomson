@@ -1,16 +1,13 @@
 REQ-ID: NFR_DB
-Description:  User Interface for important operations must be distinct and intuitive
+Description:  User Interface for Cancelling a Booking must be distinct and intuitive
 Type: Usability
 Rationale:  The customer must be able to find and use this feature easily, but also must not accidentally trigger it.
-Fit Criterion:  Customers can use this with a good success rate, with minimal accidental uses
+Fit Criterion:  Customers can find and use this feature with a 95% success rate (ie without having to call), with no more than 2.5% of customers using it accidentally.
 Originator:  DB – inferring from Functional Requirement DUB002
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 [BIB] The wording of this non-functional requirement is a little unclear. It starts in the description by referring to "important operations", however the rationale goes on to talk about the single feature this NFR appears to be based on: cancelling a booking. In addition, the fit criterion needs to be more specific, phrases like "good success rate" and "minimal accidental use" are too open to interpretation. Try something like: "95% of customers should be able to cancel their booking through the product without the need to phone Landbnb".
 [JS] The fit criteron is not readily measureable, no scale is given for how we assess success rate and accidental use, and no objective pass/fail criteria is given.
 [SD] The fit criterion needs more specific measure like n% of the users find the website easy to use, or to specifically measure the length of website-use and acitivity on it.    
-
-
-[cs] this non-functional requirement is very global and will need to be dissected into more fit criterions that will allow the non-functional requirement to be measurable by the developers and testers.
-
-
+[DB] amended - description now correct, fit criterion now specifies a level of success.
+ 

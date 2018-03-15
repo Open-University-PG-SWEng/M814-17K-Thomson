@@ -2,13 +2,10 @@ REQ-ID: RASNFR_1
 Description: Return refined search results within 10 seconds, with progress advised to the user whilst the process completes.
 Type: 12 - Performance
 Rationale: Results should be returned quickly, and users having a visual identifier that the search is happening and progressing.
-Fit Criteria: 100% of refined search results returned within 10 seconds, with progress advised to the use as the process completes.
+Fit Criteria: 95% of refined search results returned within 10 seconds, with progress advised to the use as the process completes.
 Originator: DKR, Business Analyst
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [JS] The fit criteria is specific, however the time may depend on factors outside the control of the product such as the user's internet connection.  Hence 100% may not be achieveable.
+[RS] Agreed. During internal testing, when internet connection factors should be mitigated, I would be expect 100%, but for user acceptance it's agreed that 100% may not be achievable. However, the search should still resolve within 10 seconds, so set to 95%.
 
-
-
-[cs] testing this fit criterion may be hard to measure because network speeds will vary over any distributed system and if the system gets to busy.  
-
-
+ 

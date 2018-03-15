@@ -1,9 +1,9 @@
 REQ-ID: JS101
 Description: The produce shall clearly display the booking reference number in the booking confirmation
-Type: 10 (Look and Feel)
+Type: 11 (Useability)
 Rationale: When dealing with post booking queries, where the booking reference number is quoted Landbandb agents can locate booking records significantly quicker and the risk of confusion between similar bookings is reduced. 
-Fit Criterion: The holidaymaker shall be able to locate and quote the booking reference number when requested in over 80% of post booking queries. 
-Originator: Jane Sedman
+Fit Criterion: The holidaymaker shall be able to locate and quote the booking reference number when requested in over 80% of post booking queries. Holidaymakers in possession of confirmation can locate the booking reference within 20s in 95% of cases. 
+Originator: Jane Sedman (arising from functional requirement DUB003)  
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [RS] If 80% is acceptable, in what 20% of cases would it not be? I like the NFR, it's good, I'd just consider if 80% is actually an acceptable pass rate for such an easy and mandatory requirement.
 [PS] I would consider raising 80% to 100% as Landbnb may also be legally obliged to display the history of bookings in case of invoice loss from the customer side.
@@ -11,7 +11,7 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [DKR] 2. Also, is this requirement about look & feel (appearance or style) or is it more about usability/efficiency (i.e. how easily/quickly the holidaymaker can find the booking reference)? Or perhaps both?
 [DKR] 3. The fit criterion currently leads me ask how long will it take those 80% of holidaymakers to find and quote the ref#. So I think it can be made more succinct & measurable by specifying, not just the % of people who can locate the ref#, but how *quickly* they can do so.
 [DKR] 4. Finally, I would recommend referring to the original functional requirement, for traceability.
+[JS] Type changed to 11 following [DKR] comment 2. Pass rate would need to demonstrate improvement on current quoting rate, but as this is not known kept at 80% for now.  Included additional time fit criteria as suggested and reference to original functional requirement following [DKR] comments 3 & 4.
 
 
-
-[CS] the booking reference number should be a active area that flashing or changes colour when the mouse is over it. 
+ 
