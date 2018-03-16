@@ -11,4 +11,4 @@ Comments:
 
 [cs] this non-requirement is to global and need dissecting to defined other function/Non-functionaal requirement and fit criterion that are quantifiable for developer implementing these functionality to measure (verification). 
 
-[MM] Good NFR. The log is 100% efficient; needless to say.
+[MM] The FC is good. Although I agree with CS that the NFR description is too broad.  I would expect to be testing for disabled accessibility under this heading, or not; as the case may be. But it’s not clear.
