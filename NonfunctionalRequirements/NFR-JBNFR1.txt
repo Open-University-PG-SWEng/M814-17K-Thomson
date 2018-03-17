@@ -1,0 +1,10 @@
+REQ-ID: JBNFR1
+Description: Search Validation should happen instantly.
+Type: 12 / Performance NFR
+Rationale: Users do not want to wait a long time simply to discover they have typed an incorrect character, hence the Search Validation must be a rapid procedure.
+
+Fit Criterion: Application must validate the search input value in less than 1 second, for at least 95% of the time; and must never take longer than 3 seconds. 
+
+Originator: NFR developed from Functional Requirement ID #2
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.

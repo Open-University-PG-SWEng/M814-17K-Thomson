@@ -6,10 +6,10 @@ Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 REQ-ID: 2
-Description: Everyday system shall validate the search input value
+Description: 'Everyday' system shall validate the search input value entered by the user.
 Type: 9 / Functional Requirement
-Rationale: Search term must be valid to prevent errors or incorrect results
-Originator: DB
+Rationale: Search term must be of valid type to prevent errors or incorrect results.
+Originator: Ayisha Jayakodi
 
 REQ-ID: 3
 Description: The product shall accept special arrangements for the bookings
