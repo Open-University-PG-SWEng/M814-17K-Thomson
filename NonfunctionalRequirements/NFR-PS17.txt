@@ -4,3 +4,4 @@ Rationale: Payment and personal details such as customer name, address and credi
 Fit Criterion: 
 100% of all transactions must be secured with end to end encryption. 100% of all payment transactions should be encrypted using AES (Advanced Encryption Standard).
 Originator: Functional Requirement PS17
+Comments: 
