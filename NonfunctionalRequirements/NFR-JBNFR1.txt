@@ -3,10 +3,11 @@ Description: Search Validation should happen instantly.
 Type: 12 / Performance NFR
 Rationale: Users do not want to wait a long time simply to discover they have typed an incorrect character, hence the Search Validation must be a rapid procedure.
 
-Fit Criterion: Application must validate the search input value in less than 1 second, for at least 95% of the time; and must never take longer than 3 seconds. 
+Fit Criterion: Application must validate the search input value in less than 1 second, for at least 95% of the time; and must never take longer than 3 seconds. This validation should take place as soon as the user has stopped typing for 1.5 seconds. 
 
 Originator: NFR developed from Functional Requirement ID #2
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [SD] This is an useful NFR, in my opinion the fit criteria looks all fine.
 [JC] Should the fit criterion say when the validation should trigger? As the user types, when the user moves to a new field or on form submission?
+[JB] Thanks for the comment [JC], yes it makes sense for the application to run the validity check on the data entry characters as soon as the user stops typing. In this way, the user will receive the quickest feedback to the entry, and does not need to submit the form to discover there is an error. To quantify this, the user should have stopped typing for around 1-2 seconds before the application runs the validation, in case the user fixes his/her own error and so that the program does not continuously check the characters unnecessarily. I will make these changes to this NFR.
