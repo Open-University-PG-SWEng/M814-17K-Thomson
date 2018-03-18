@@ -7,7 +7,7 @@ Fit Criterion: i) During pick seasons 50% of properties (that are being browsed)
 	       ii) 98% of bookings will not have any overlapped booked-dates.
 	       iii) 98% users will get feedback within 5 seconds of the same property getting booked by a different user 
 	       iv) 2% of users will notice that date of availability is changed while they were browsing.  
-Date of availability will change if a property becomes booked by a different customer while another customer is browsing the same property
+
 Originator: Derived from functional requirement DKR9 and GD1
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
