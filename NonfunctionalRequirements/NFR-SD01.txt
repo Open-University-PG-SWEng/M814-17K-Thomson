@@ -3,10 +3,10 @@ REQ-ID:NFR-SD01
 Description: Dates of availability of a property should be refreshed/ reloaded in every 5 seconds. Only available dates on the calendars can be selected and dates when the property is unavailable should be greyed out/inactive (Assuming calendars will be used for date selection).
 Type: Performance
 Rationale: Users need to be provided with an uptodate date range and a property can get booked while other users are browsing it. This refresh will stop any double booking from occurring.  
-Fit Criterion: i) During pick seasons 50% of properties (that are being browsed) will show available dates being changed within upto 5 seconds of viewing it.
+Fit Criterion: i) During peak seasons 50% of properties (that are being browsed) will show available dates being changed within upto 5 seconds of viewing it.
 	       ii) 98% of bookings will not have any overlapped booked-dates.
 	       iii) 98% users will get feedback within 5 seconds of the same property getting booked by a different user 
-	       iv) 2% of users will notice that date of availability is changed while they were browsing.  
+	       iv) 2% of all users will notice that date of availability is changed while they were browsing.  
 
 Originator: Derived from functional requirement DKR9 and GD1
 

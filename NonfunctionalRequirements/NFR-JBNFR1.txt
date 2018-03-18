@@ -8,3 +8,4 @@ Fit Criterion: Application must validate the search input value in less than 1 s
 Originator: NFR developed from Functional Requirement ID #2
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[SD] This is an useful NFR, in my opinion the fit criteria looks all fine.
