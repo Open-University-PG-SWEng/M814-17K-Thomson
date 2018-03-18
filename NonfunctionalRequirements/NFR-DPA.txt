@@ -28,4 +28,6 @@ It would be interesting to see an FC written against that suggested description!
 
 [MM]But seriously folks – don’t you think legally based NFRs’ look and feel just like constraints?
 
+[JB] I think that to state "100% certainty" is impossible for a discipline as broad, and often subjective, as the law. I think that whilst including a numeric value is generally necessary for metric value, 100% certainty is not something that can be measured because it can never be 100% sure. For the purpose of a compliance requirement, maybe you would be better to state that a lawyer must provide black-and-white confirmation that they are satisfied that the product does not break any laws, to the best of their knowledge. When dealing with compliance, it is primarily a risk-mitigation measure, and as long as the lawyer has provided his/her view/confirmation, then the risk and any feasible legal dispute is transferred onto the lawyer and the legal team. In this way, you eliminate the risk of the product causing an issue entirely, without the need for an actual metric figure.
+
  

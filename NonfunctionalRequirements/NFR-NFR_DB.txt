@@ -10,4 +10,6 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [JS] The fit criteron is not readily measureable, no scale is given for how we assess success rate and accidental use, and no objective pass/fail criteria is given.
 [SD] The fit criterion needs more specific measure like n% of the users find the website easy to use, or to specifically measure the length of website-use and acitivity on it.    
 [DB] amended - description now correct, fit criterion now specifies a level of success.
+
+[JB] The modifications made to the NFR are much better than previously discussed by other user feedback. Although, unless the user were to close the browser, assuming that the program offers some kind of 'warning, do you wish to proceed with cancellation option?' then I would expect the number of times people accidentally cancel a booking to be far less, maybe even 0%. Because, even if someone accidentally pressed the initial cancellation button, they would backtrack when they saw the warning message. 
  
