@@ -13,3 +13,4 @@ Comments: [DN]. To collect data people must be willing to participate in a surve
 [DB] As you will not be able to control who participates, we may want 'representative population sample group' to simply be 'survey participants' or similar, unless this is referring to an assembled test group.
 [DN] I agree that (ii) and (iv) were not clearly measurable and have edited the NFR. I also changed 'representative population sample group' to 'survey participants'.
 [JC] As an alternative to relying on survey participation, you could look at other website metrics to determine customer behavior. For example, you could look at the number of users who continue to look for properties on LandBNB after seeing a "property unavailable" message versus the number of people who stop using the site altogether.
+[DN] @JC thanks, yes there is a lot of research.
