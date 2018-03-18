@@ -9,3 +9,4 @@ Originator: NFR developed from Functional Requirement ID #2
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [SD] This is an useful NFR, in my opinion the fit criteria looks all fine.
+[JC] Should the fit criterion say when the validation should trigger? As the user types, when the user moves to a new field or on form submission?
