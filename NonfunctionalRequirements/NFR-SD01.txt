@@ -3,8 +3,12 @@ REQ-ID:NFR-SD01
 Description: Dates of availability of a property should be refreshed/ reloaded in every 5 seconds. Only available dates on the calendars can be selected and dates when the property is unavailable should be greyed out/inactive (Assuming calendars will be used for date selection).
 Type: Performance
 Rationale: Users need to be provided with an uptodate date range and a property can get booked while other users are browsing it. This refresh will stop any double booking from occurring.  
-Fit Criterion: Date of availability will change if a property becomes booked by a different customer while another customer is browsing the same property
-Originator: SD
+Fit Criterion: i) During pick seasons 50% of properties (that are being browsed) will show available dates being changed within upto 5 seconds of viewing it.
+	       ii) 98% of bookings will not have any overlapped booked-dates.
+	       iii) 98% users will get feedback within 5 seconds of the same property getting booked by a different user 
+	       iv) 2% of users will notice that date of availability is changed while they were browsing.  
+Date of availability will change if a property becomes booked by a different customer while another customer is browsing the same property
+Originator: Derived from functional requirement DKR9 and GD1
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [MS] Fit criterion must be measurable. For example, it could be: 100% of validation errors due to busy dates, should be caused by bookings made up to five seconds before the booking whose trying to be submitted
@@ -17,5 +21,6 @@ Although it’s very difficult for a website to technically achieve this; once pos
 
 But this can be done with some new Tec’ as phone apps’ often remind us. Good NFR, If it’s truly needed!
 
+[SD] Fit criterion iii)- I chose 98% over 100% assuming that delays can be caused by slow connections.
 
  
