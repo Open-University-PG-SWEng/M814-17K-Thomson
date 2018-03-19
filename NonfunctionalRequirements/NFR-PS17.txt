@@ -4,4 +4,5 @@ Rationale: Payment and personal details such as customer name, address and credi
 Fit Criterion: 
 100% of all transactions must be secured with end to end encryption. 100% of all payment transactions should be encrypted using AES (Advanced Encryption Standard).
 Originator: Functional Requirement PS17
-Comments: 
+Comments: [DN] The fit criterion mentions AES and requirements should not solve the problem,  I suggest removing the reference to AES 
+and instead state that a network Security consultancy should verify that it is 100% secure from known attacks.
