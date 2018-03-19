@@ -73,6 +73,13 @@ Type: Functional
 Rationale: Property booking confirmation will serve as a contract between the holidaymaker, Landbnb and property owner.
 Originator: Ayisha Jayakodi
 
+REQ-ID: hotrod1
+Description: The product will store contact details and preferences of all prospective holidaymaker clients; if available
+Type:  Functional Requirement
+Rationale: For future marketing purposes
+Originator: Ayisha Jayakodi
+
+
 REQ-ID: PS17
 Description: The product shall be able to process payments of holidaymakers.
 Type: Functional requirement
@@ -114,3 +121,5 @@ Description: The product shall record payment for property bookings
 Type: Functional Requirement
 Rationale: The product should assure that payment is paid or isn't paid again.
 Originator: Ayisha Jayakodi
+
+
