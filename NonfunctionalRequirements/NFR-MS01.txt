@@ -3,7 +3,7 @@ Description: The product shall clearly ask for special arrangements on the booki
 Type: 11 Usability and Humanity Requirements
 Rationale: In the booking process it is important to clearly ask special arrangements to avoid contacts by phone and abandonment on the booking process
 Fit Criterion:
-	* At least 90% of weekly special arrangements must be filled on the booking process and not by phone 
+	* At least 90% of special arrangements must be filled on the booking process and not by phone 
 	* Less than 10% of booking abandonments should be at filling special arrangements step
 Originator: Mauro Szuchman
 Comments: [DN] I think the fit criterion is pretty good, I would edit the first part to say: "at least 90% of special arrangements organized on the website should be filled by the website booking process and not by phone".
@@ -15,4 +15,7 @@ Comments: [DN] I think the fit criterion is pretty good, I would edit the first 
 
 I now understand that the NFR bit of this is an imperative caution, so it is valid; although it can easily be achieved by the coder; 100% of the time.
 
-
+[MS]
+	Thanks DN! I agree with you, I will remove "weekly"
+	Thanks CS! If I understand well your point, I see it as part of the solution and it wouldn't be part of the requirement
+	Thanks MM! It is a possible as a solution, but in this instance we have to review the fit criterion
